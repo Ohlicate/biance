@@ -1,0 +1,1038 @@
+【2026-06-22 01:04:36.589】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000}
+【2026-06-22 01:04:36.597】 ✅ WebSocket positions通道已连接
+【2026-06-22 01:04:36.597】 [positions WS] 等待接受信息
+【2026-06-22 01:08:57.409】 ✅ WebSocket positions通道已连接
+【2026-06-22 01:08:57.410】 [positions WS] 等待接受信息
+【2026-06-22 01:08:57.463】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000}
+【2026-06-22 01:12:14.854】 🐕[potions_ws] 接受超时
+【2026-06-22 01:15:14.877】 🐕[potions_ws] 接受超时
+【2026-06-22 01:16:23.250】 ✅ WebSocket positions通道已连接
+【2026-06-22 01:16:23.250】 [positions WS] 等待接受信息
+【2026-06-22 01:16:23.494】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.05144700000000001, 'nextFundingTime': 1782064800000}
+【2026-06-22 01:58:11.071】 ✅ WebSocket positions通道已连接
+【2026-06-22 01:58:11.072】 [positions WS] 等待接受信息
+【2026-06-22 01:58:11.094】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000}
+【2026-06-22 01:58:13.601】 {"e":"TRADE_LITE","E":1782064693078,"T":1782064693078,"s":"HOMEUSDT","q":"248","p":"0.0000000","m":false,"c":"aos_coin_QYQpM9RPFXbF9jgzMOG1","S":"BUY","L":"0.0202000","l":"248","t":134727230,"i":1633977225}
+【2026-06-22 01:58:13.601】 {"e":"ORDER_TRADE_UPDATE","T":1782064693078,"E":1782064693078,"o":{"s":"HOMEUSDT","c":"aos_coin_QYQpM9RPFXbF9jgzMOG1","S":"BUY","o":"MARKET","f":"GTC","q":"248","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1633977225,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782064693078,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-22 01:58:13.601】 {"e":"ACCOUNT_UPDATE","T":1782064693078,"E":1782064693078,"a":{"B":[{"a":"USDT","wb":"0.97993333","cw":"0.97993333","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"248","ep":"0.0202","cr":"0","up":"-0.00119784","mt":"cross","iw":"0","ps":"BOTH","ma":"USDT","bep":"0.0202101"}],"m":"ORDER"}}
+【2026-06-22 01:58:13.601】 {"e":"ORDER_TRADE_UPDATE","T":1782064693078,"E":1782064693078,"o":{"s":"HOMEUSDT","c":"aos_coin_QYQpM9RPFXbF9jgzMOG1","S":"BUY","o":"MARKET","f":"GTC","q":"248","p":"0","ap":"0.0202","sp":"0","x":"TRADE","X":"FILLED","i":1633977225,"l":"248","z":"248","L":"0.0202","n":"0.0025048","N":"USDT","T":1782064693078,"t":134727230,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-22 02:00:00.771】 {"e":"ACCOUNT_UPDATE","T":1782064800244,"E":1782064800248,"a":{"B":[{"a":"USDT","wb":"0.98232314","cw":"0.98232314","bc":"0.00238981"}],"P":[],"m":"FUNDING_FEE"}}
+【2026-06-22 02:00:08.199】 {"e":"TRADE_LITE","E":1782064807677,"T":1782064807677,"s":"HOMEUSDT","q":"248","p":"0.0000000","m":false,"c":"android_AA6AvxTYft5R27bLPcq7","S":"SELL","L":"0.0202300","l":"248","t":134727582,"i":1633980295}
+【2026-06-22 02:00:08.201】 {"e":"ORDER_TRADE_UPDATE","T":1782064807677,"E":1782064807677,"o":{"s":"HOMEUSDT","c":"android_AA6AvxTYft5R27bLPcq7","S":"SELL","o":"MARKET","f":"GTC","q":"248","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1633980295,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782064807677,"t":0,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-22 02:00:08.201】 {"e":"ACCOUNT_UPDATE","T":1782064807677,"E":1782064807677,"a":{"B":[{"a":"USDT","wb":"0.98725462","cw":"0.98725462","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"0","ep":"0","cr":"0.00744","up":"0","mt":"cross","iw":"0","ps":"BOTH","ma":"USDT","bep":"0"}],"m":"ORDER"}}
+【2026-06-22 02:00:08.201】 {"e":"ORDER_TRADE_UPDATE","T":1782064807677,"E":1782064807678,"o":{"s":"HOMEUSDT","c":"android_AA6AvxTYft5R27bLPcq7","S":"SELL","o":"MARKET","f":"GTC","q":"248","p":"0","ap":"0.02023","sp":"0","x":"TRADE","X":"FILLED","i":1633980295,"l":"248","z":"248","L":"0.02023","n":"0.00250852","N":"USDT","T":1782064807677,"t":134727582,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0.00744","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-22 14:25:59.848】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000}
+【2026-06-22 14:26:18.858】 开始设置倍数
+【2026-06-22 14:26:19.218】 {'symbol': 'HOMEUSDT', 'leverage': 10, 'timestamp': 1782109578858, 'signature': 'c2f46751d74fc231d251cfceb0760b2228e6caaaa86c428cd4ef3d04f4382b56'}
+【2026-06-22 14:26:19.218】 <coroutine object ClientResponse.json at 0x0000022AC5D8FDC0>
+【2026-06-22 14:26:19.218】 设置完毕
+【2026-06-22 14:26:19.221】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.027386, 'nextFundingTime': 1782111600000}
+【2026-06-22 14:26:50.138】 开始设置倍数
+【2026-06-22 14:26:50.564】 {'symbol': 'HOMEUSDT', 'leverage': 10, 'timestamp': 1782109610138, 'signature': '962aa54aac2dfb07b3c93a88182659d65b969164a047c7c6fdf1310b1f690f09'}
+【2026-06-22 14:26:50.564】 <coroutine object ClientResponse.json at 0x0000021AA3B0CDC0>
+【2026-06-22 14:26:50.564】 设置完毕
+【2026-06-22 14:26:50.567】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.027386, 'nextFundingTime': 1782111600000}
+【2026-06-22 15:19:00.037】 开始设置倍数
+【2026-06-22 15:19:00.213】 {'symbol': 'IDUSDT', 'leverage': 10, 'timestamp': 1782112740040, 'signature': '817bcd30a83660ac491475fc6b43b73a0a424d62bcc64753bcbfd113e64680e3'}
+【2026-06-22 15:19:00.213】 <coroutine object ClientResponse.json at 0x0000028EDE4B2240>
+【2026-06-22 15:19:00.213】 设置完毕
+【2026-06-22 15:19:00.217】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.717472, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:19:51.966】 开始设置倍数
+【2026-06-22 15:19:52.082】 {'symbol': 'IDUSDT', 'leverage': 10, 'timestamp': 1782112791966, 'signature': '8e11ef3809a80cac8b4338405cdc9e31891ddc2833af8c79965f7e6ea5f724d3'}
+【2026-06-22 15:19:52.082】 <coroutine object ClientResponse.text at 0x000001A891452240>
+【2026-06-22 15:19:52.082】 设置完毕
+【2026-06-22 15:19:52.084】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.713306, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:20:01.497】 开始设置倍数
+【2026-06-22 15:20:01.636】 {'symbol': 'IDUSDT', 'leverage': 10, 'timestamp': 1782112801497, 'signature': '04eccd690835559bdbcdd49ea959531c8e07f5480d987eeecadea83f4e24daeb'}
+【2026-06-22 15:20:01.636】 <ClientResponse(https://fapi.binance.com/fapi/v1/leverage?symbol=IDUSDT&leverage=10&timestamp=1782112801497&signature=04eccd690835559bdbcdd49ea959531c8e07f5480d987eeecadea83f4e24daeb) [200 OK]>
+<CIMultiDictProxy('Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 22 Jun 2026 07:20:01 GMT', 'x-xss-protection': '1; mode=block', 'Content-Encoding': 'gzip', 'Server': 'Tengine', 'Vary': 'Accept-Encoding', 'x-mbx-used-weight-1m': '11', 'x-response-time': '3ms', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS', 'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Headers': '*,clienttype,Content-Type,lang,x-ui-request-trace,bnc-uuid', 'Content-Security-Policy': "default-src 'self'", 'Cache-Control': 'no-cache, no-store, must-revalidate', 'Expires': '0', 'Pragma': 'no-cache', 'strict-transport-security': 'max-age=31536000; includeSubdomains', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 9f23804b073ef6eaff4fa8256fd8c51a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': '9lrEgEu8BjKddtlt8kg0Dmg4mpvAmYFBVJFgy-g4pCPkxwulNCYUew==')>
+
+【2026-06-22 15:20:01.636】 设置完毕
+【2026-06-22 15:20:01.637】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.713306, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:20:56.000】 开始设置倍数
+【2026-06-22 15:20:56.122】 {'symbol': 'IDUSDT', 'leverage': 10, 'timestamp': 1782112856000, 'signature': 'f02b73bde3e21fdd4d1f86450ad6fd2d7456ea74e80575d57a2097155e760bd9'}
+【2026-06-22 15:20:56.122】 200
+【2026-06-22 15:20:56.122】 设置完毕
+【2026-06-22 15:20:56.123】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.713306, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:21:14.759】 开始设置倍数
+【2026-06-22 15:21:14.909】 {'symbol': 'IDUSDT', 'leverage': 10, 'timestamp': 1782112874760, 'signature': 'fd8dbafab69ec1ab672e23af8d72cc92ac29314abd06be75b0701723a04d7b0c'}
+【2026-06-22 15:21:14.909】 200
+【2026-06-22 15:21:14.909】 设置完毕
+【2026-06-22 15:21:14.910】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.707396, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:46:47.798】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:12> exception=KeyError(0)>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 13, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 61, in get_sysbol
+    res = sorted_data[0]
+KeyError: 0
+【2026-06-22 15:47:16.487】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:12> exception=KeyError(0)>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 13, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 61, in get_sysbol
+    res = sorted_datas[0]
+KeyError: 0
+【2026-06-22 15:47:51.455】 开始设置持仓模式
+【2026-06-22 15:47:51.581】 设置持仓模式完毕:IDUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:51.581】 开始设置倍数
+【2026-06-22 15:47:51.719】 设置完毕:IDUSDT,倍数:10
+【2026-06-22 15:47:51.719】 开始设置持仓模式
+【2026-06-22 15:47:51.843】 设置持仓模式完毕:TNSRUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:51.843】 开始设置倍数
+【2026-06-22 15:47:51.976】 设置完毕:TNSRUSDT,倍数:10
+【2026-06-22 15:47:51.976】 开始设置持仓模式
+【2026-06-22 15:47:52.134】 设置持仓模式错误HUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:52.135】 开始设置倍数
+【2026-06-22 15:47:52.260】 设置错误HUSDT,倍数:10
+【2026-06-22 15:47:52.260】 开始设置持仓模式
+【2026-06-22 15:47:52.387】 设置持仓模式完毕:SYNUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:52.387】 开始设置倍数
+【2026-06-22 15:47:52.513】 设置完毕:SYNUSDT,倍数:10
+【2026-06-22 15:47:52.513】 开始设置持仓模式
+【2026-06-22 15:47:52.640】 设置持仓模式完毕:TAIKOUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:52.640】 开始设置倍数
+【2026-06-22 15:47:52.770】 设置完毕:TAIKOUSDT,倍数:10
+【2026-06-22 15:47:52.770】 开始设置持仓模式
+【2026-06-22 15:47:52.893】 设置持仓模式完毕:REUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:52.893】 开始设置倍数
+【2026-06-22 15:47:53.022】 设置完毕:REUSDT,倍数:10
+【2026-06-22 15:47:53.022】 开始设置持仓模式
+【2026-06-22 15:47:53.150】 设置持仓模式完毕:ALICEUSDT,持仓模式:逐仓模式
+【2026-06-22 15:47:53.150】 开始设置倍数
+【2026-06-22 15:48:36.066】 开始设置持仓模式
+【2026-06-22 15:48:36.176】 设置持仓模式完毕:IDUSDT,持仓模式:逐仓模式
+【2026-06-22 15:48:36.176】 开始设置倍数
+【2026-06-22 15:48:36.289】 设置完毕:IDUSDT,倍数:10
+【2026-06-22 15:48:36.290】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.574221, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:48:46.723】 开始设置持仓模式
+【2026-06-22 15:48:46.842】 设置持仓模式错误IDUSDT,持仓模式:逐仓模式
+【2026-06-22 15:48:46.842】 开始设置倍数
+【2026-06-22 15:48:46.966】 设置完毕:IDUSDT,倍数:50
+【2026-06-22 15:48:46.966】 📈{'symbol': 'IDUSDT', 'lastFundingRate': -0.574221, 'nextFundingTime': 1782115200000}
+【2026-06-22 15:48:52.455】 开始设置持仓模式
+【2026-06-22 15:48:52.582】 设置持仓模式错误IDUSDT,持仓模式:逐仓模式
+【2026-06-22 15:48:52.582】 开始设置倍数
+【2026-06-22 15:48:52.709】 设置错误IDUSDT,倍数:505
+【2026-06-22 15:48:52.709】 开始设置持仓模式
+【2026-06-22 15:48:52.836】 设置持仓模式错误TNSRUSDT,持仓模式:逐仓模式
+【2026-06-22 15:48:52.836】 开始设置倍数
+【2026-06-22 15:48:52.961】 设置错误TNSRUSDT,倍数:505
+【2026-06-22 15:48:52.962】 开始设置持仓模式
+【2026-06-22 15:48:53.092】 设置持仓模式错误HUSDT,持仓模式:逐仓模式
+【2026-06-22 15:48:53.092】 开始设置倍数
+【2026-06-22 15:48:53.222】 设置错误HUSDT,倍数:505
+【2026-06-22 15:48:53.222】 开始设置持仓模式
+【2026-06-22 15:48:53.348】 设置持仓模式错误SYNUSDT,持仓模式:逐仓模式
+【2026-06-22 15:48:53.348】 开始设置倍数
+【2026-06-22 15:48:53.477】 设置错误SYNUSDT,倍数:505
+【2026-06-22 15:48:53.477】 开始设置持仓模式
+【2026-06-22 16:04:45.549】 开始设置持仓模式
+【2026-06-22 16:04:45.577】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:06:18.448】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:06:18.454】 Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x0000015B9D3EFFD0>
+transport: <_ProactorSocketTransport fd=668 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "D:\python39\lib\asyncio\sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "D:\python39\lib\asyncio\proactor_events.py", line 359, in write
+    self._loop_writing(data=bytes(data))
+  File "D:\python39\lib\asyncio\proactor_events.py", line 395, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+【2026-06-22 16:07:00.495】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:07:00.501】 Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x000001C7A9C0FFD0>
+transport: <_ProactorSocketTransport fd=504 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "D:\python39\lib\asyncio\sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "D:\python39\lib\asyncio\proactor_events.py", line 359, in write
+    self._loop_writing(data=bytes(data))
+  File "D:\python39\lib\asyncio\proactor_events.py", line 395, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+【2026-06-22 16:10:17.597】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:10:17.598】 [positions WS] 等待接受信息
+【2026-06-22 16:10:17.667】 开始设置持仓模式
+【2026-06-22 16:10:17.797】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:10:17.797】 开始设置倍数
+【2026-06-22 16:10:17.917】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:10:17.917】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.030805999999999997, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:10:18.012】 ✅ WebSocket order通道已连接
+【2026-06-22 16:10:18.012】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:10:23.024】 [order_ws] 异常: An asyncio.Future, a coroutine or an awaitable is required
+【2026-06-22 16:10:24.913】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:10:24.913】 [positions WS] 等待接受信息
+【2026-06-22 16:10:25.400】 ✅ WebSocket order通道已连接
+【2026-06-22 16:10:25.400】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:10:25.400】 [order_ws] 异常: An asyncio.Future, a coroutine or an awaitable is required
+【2026-06-22 16:15:28.525】 开始设置持仓模式
+【2026-06-22 16:15:28.600】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:15:28.600】 [positions WS] 等待接受信息
+【2026-06-22 16:15:28.642】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:15:28.642】 开始设置倍数
+【2026-06-22 16:15:28.761】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:15:28.762】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.025949000000000003, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:15:29.117】 ✅ WebSocket order通道已连接
+【2026-06-22 16:15:29.117】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:15:34.132】 下单类型:下单 下单信息:{'id': UUID('70a099b6-44e8-41d8-8c47-42714a2d67e0'), 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1', 'apiKey': 'X3CL0a5zxSpDmeyCDWSIYHF6oSpHW9xrv5FWuaYsJSOYKsxSX3M3VGwW7XO1EIdD', 'signature': 'ltezsp5BtO0jEc3LHockcLfCqUuwYWhKWEi1agyEaarf8fE4uRr8dJbq6U68PSGC', 'timestamp': 1782116134132}}
+【2026-06-22 16:15:34.132】 准备首次下单
+【2026-06-22 16:15:34.132】 [order_ws] 异常: Object of type UUID is not JSON serializable
+【2026-06-22 16:15:35.912】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:15:35.912】 [positions WS] 等待接受信息
+【2026-06-22 16:15:36.288】 ✅ WebSocket order通道已连接
+【2026-06-22 16:15:36.288】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:16:49.688】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:16:49.688】 [positions WS] 等待接受信息
+【2026-06-22 16:16:49.763】 开始设置持仓模式
+【2026-06-22 16:16:49.889】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:16:49.889】 开始设置倍数
+【2026-06-22 16:16:50.019】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:16:50.019】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.025949000000000003, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:16:50.085】 ✅ WebSocket order通道已连接
+【2026-06-22 16:16:50.085】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:16:55.096】 下单类型:下单 下单信息:{'id': '102fbb87-19e4-4f53-8200-c3302515f4df', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1', 'apiKey': 'X3CL0a5zxSpDmeyCDWSIYHF6oSpHW9xrv5FWuaYsJSOYKsxSX3M3VGwW7XO1EIdD', 'signature': 'ltezsp5BtO0jEc3LHockcLfCqUuwYWhKWEi1agyEaarf8fE4uRr8dJbq6U68PSGC', 'timestamp': 1782116215096}}
+【2026-06-22 16:16:55.096】 准备首次下单
+【2026-06-22 16:16:55.222】 ❌ 下单失败: {'id': '102fbb87-19e4-4f53-8200-c3302515f4df', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-22 16:16:56.904】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:16:56.904】 [positions WS] 等待接受信息
+【2026-06-22 16:16:57.275】 ✅ WebSocket order通道已连接
+【2026-06-22 16:16:57.275】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:23:16.358】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:23:16.358】 [positions WS] 等待接受信息
+【2026-06-22 16:23:16.545】 开始设置持仓模式
+【2026-06-22 16:23:16.711】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:23:16.711】 开始设置倍数
+【2026-06-22 16:23:16.741】 ✅ WebSocket order通道已连接
+【2026-06-22 16:23:16.741】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:23:16.864】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:23:16.865】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.022574, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:23:21.753】 下单类型:下单 下单信息:{'id': '50eb8626-96c3-495a-8da4-b019b97b2101', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1', 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'signature': '8sJ9xLO6NDILXZYPK8wxWyyHWQpqYL3kUTWAXRpcGMo14lpaVt3peNKni69QypLV', 'timestamp': 1782116601753}}
+【2026-06-22 16:23:21.753】 准备首次下单
+【2026-06-22 16:23:21.880】 ❌ 下单失败: {'id': '50eb8626-96c3-495a-8da4-b019b97b2101', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-22 16:23:23.503】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:23:23.503】 [positions WS] 等待接受信息
+【2026-06-22 16:23:23.881】 ✅ WebSocket order通道已连接
+【2026-06-22 16:23:23.881】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:28:48.366】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:28:48.366】 [positions WS] 等待接受信息
+【2026-06-22 16:28:48.420】 开始设置持仓模式
+【2026-06-22 16:28:48.617】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:28:48.617】 开始设置倍数
+【2026-06-22 16:28:48.738】 ✅ WebSocket order通道已连接
+【2026-06-22 16:28:48.738】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:28:48.752】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:28:48.753】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.021075, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:28:53.744】 下单类型:下单 下单信息:{'id': '5774320e-2400-4fda-9e0f-d5b172e667ec', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1', 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782116933744, 'signature': 'e5ee264cd694fd8d3cffc3c63c4df565deb4006f248870450bcb2557fa59cd0d'}}
+【2026-06-22 16:28:53.744】 准备首次下单
+【2026-06-22 16:28:53.854】 ❌ 下单失败: {'id': '5774320e-2400-4fda-9e0f-d5b172e667ec', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-22 16:28:55.684】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:28:55.684】 [positions WS] 等待接受信息
+【2026-06-22 16:34:40.197】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:34:40.197】 [positions WS] 等待接受信息
+【2026-06-22 16:34:40.310】 开始设置持仓模式
+【2026-06-22 16:34:40.456】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:34:40.456】 开始设置倍数
+【2026-06-22 16:34:40.582】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:34:40.583】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.020039, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:34:40.631】 ✅ WebSocket order通道已连接
+【2026-06-22 16:34:40.631】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:34:45.634】 [order_ws] 异常: name 'signature' is not defined
+【2026-06-22 16:34:47.518】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:34:47.518】 [positions WS] 等待接受信息
+【2026-06-22 16:34:47.891】 ✅ WebSocket order通道已连接
+【2026-06-22 16:34:47.891】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:35:13.073】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:35:13.073】 [positions WS] 等待接受信息
+【2026-06-22 16:35:13.101】 开始设置持仓模式
+【2026-06-22 16:35:13.223】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:35:13.223】 开始设置倍数
+【2026-06-22 16:35:13.344】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:35:13.344】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.01956, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:35:13.448】 ✅ WebSocket order通道已连接
+【2026-06-22 16:35:13.448】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:35:18.453】 下单类型:下单 下单信息:{'id': '4d99c9b8-5255-4215-a178-eae7579001b1', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 1, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782117318453, 'signature': 'd2afe1f0d044dc0cd373d0e5a9aef2a1d9cb4aefade5126871b86ed94d29d310'}}
+【2026-06-22 16:35:18.453】 准备首次下单
+【2026-06-22 16:35:18.576】 ❌ 下单失败: {'id': '4d99c9b8-5255-4215-a178-eae7579001b1', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-22 16:38:33.119】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:38:33.120】 [positions WS] 等待接受信息
+【2026-06-22 16:38:33.197】 开始设置持仓模式
+【2026-06-22 16:38:33.313】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:38:33.314】 开始设置倍数
+【2026-06-22 16:38:33.435】 设置错误HOMEUSDT,倍数:10
+【2026-06-22 16:38:33.435】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000}
+【2026-06-22 16:38:33.619】 ✅ WebSocket order通道已连接
+【2026-06-22 16:38:33.619】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:38:38.632】 下单类型:下单 下单信息:{'id': '86a9dc51-5fbf-419a-a761-c7e6e4b9e602', 'method': 'order.place', 'params': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 1, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782117518632, 'signature': '47f0cfc65cfa2c395dbddb190ddd692e6aa677bb7c2c3c0e86ce983b0f9a02ab'}}
+【2026-06-22 16:38:38.632】 准备首次下单
+【2026-06-22 16:38:38.787】 ❌ 下单失败: {'id': '86a9dc51-5fbf-419a-a761-c7e6e4b9e602', 'status': 400, 'error': {'code': -2019, 'msg': 'Margin is insufficient.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-22 16:43:57.870】 开始设置持仓模式
+【2026-06-22 16:43:57.923】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:43:57.924】 [positions WS] 等待接受信息
+【2026-06-22 16:43:57.981】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:43:57.981】 开始设置倍数
+【2026-06-22 16:43:58.093】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:43:58.094】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.017525, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:43:58.420】 ✅ WebSocket order通道已连接
+【2026-06-22 16:43:58.420】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:44:03.423】 下单类型:下单 下单信息:{'id': 'd99e8d65-0f7f-49a1-9090-ff0f6ac817b5', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 1, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782117843423, 'signature': '823cc25ac8d7f7c2182dcbeffe4bd4be1ed0b2e8fcb1acce5bda44067eb355f3'}}
+【2026-06-22 16:44:03.423】 准备首次下单
+【2026-06-22 16:44:03.556】 ❌ 下单失败: {'id': 'd99e8d65-0f7f-49a1-9090-ff0f6ac817b5', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-22 16:44:05.197】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:44:05.198】 [positions WS] 等待接受信息
+【2026-06-22 16:45:08.007】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:45:08.007】 [positions WS] 等待接受信息
+【2026-06-22 16:45:08.067】 开始设置持仓模式
+【2026-06-22 16:45:08.189】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:45:08.189】 开始设置倍数
+【2026-06-22 16:45:08.303】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:45:08.304】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.017252, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:45:08.470】 ✅ WebSocket order通道已连接
+【2026-06-22 16:45:08.470】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:45:13.479】 下单类型:下单 下单信息:{'id': 'f8697283-ba74-407d-8165-afbf75974144', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 5, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782117913479, 'signature': '1660496fe42e3a0242c7b02279b51869e3c5c557615a75740e211db26604c5d4'}}
+【2026-06-22 16:45:13.479】 准备首次下单
+【2026-06-22 16:45:13.624】 ❌ 下单失败: {'id': 'f8697283-ba74-407d-8165-afbf75974144', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-22 16:45:15.205】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:45:15.205】 [positions WS] 等待接受信息
+【2026-06-22 16:45:39.472】 ✅ WebSocket positions通道已连接
+【2026-06-22 16:45:39.472】 [positions WS] 等待接受信息
+【2026-06-22 16:45:39.508】 开始设置持仓模式
+【2026-06-22 16:45:39.618】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 16:45:39.618】 开始设置倍数
+【2026-06-22 16:45:39.728】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 16:45:39.728】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.017252, 'nextFundingTime': 1782118800000}
+【2026-06-22 16:45:39.850】 ✅ WebSocket order通道已连接
+【2026-06-22 16:45:39.850】 [order WS] 启动成功，等待接受信息
+【2026-06-22 16:45:44.862】 下单类型:下单 下单信息:{'id': 'c09eb1b5-9fe0-4d80-829b-de46cdbfaadb', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782117944862, 'signature': '8d0c4fa3fa62f29ea8205cd8fcdd42a149baa6a363a54ab4e59aed37c587030a'}}
+【2026-06-22 16:45:44.862】 准备首次下单
+【2026-06-22 16:45:44.991】 ❌ 下单失败: {'id': 'c09eb1b5-9fe0-4d80-829b-de46cdbfaadb', 'status': 200, 'result': {'orderId': 1636913992, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'kF6iE68dO3fBXxoNJm3Qtb', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '250', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782117945254}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 2}]}
+【2026-06-22 16:45:44.993】 {"e":"TRADE_LITE","E":1782117945254,"T":1782117945254,"s":"HOMEUSDT","q":"250","p":"0.0000000","m":false,"c":"kF6iE68dO3fBXxoNJm3Qtb","S":"BUY","L":"0.0208200","l":"250","t":135044939,"i":1636913992}
+【2026-06-22 16:45:44.993】 {"e":"ORDER_TRADE_UPDATE","T":1782117945254,"E":1782117945254,"o":{"s":"HOMEUSDT","c":"kF6iE68dO3fBXxoNJm3Qtb","S":"BUY","o":"MARKET","f":"GTC","q":"250","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1636913992,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782117945254,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-22 16:45:44.993】 {"e":"ACCOUNT_UPDATE","T":1782117945254,"E":1782117945254,"a":{"B":[{"a":"USDT","wb":"0.98465212","cw":"0.46675462","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"250","ep":"0.02082","cr":"0.00744","up":"0.0007075","mt":"isolated","iw":"0.5178975","ps":"BOTH","ma":"USDT","bep":"0.02083041"}],"m":"ORDER"}}
+【2026-06-22 16:45:44.993】 {"e":"ORDER_TRADE_UPDATE","T":1782117945254,"E":1782117945254,"o":{"s":"HOMEUSDT","c":"kF6iE68dO3fBXxoNJm3Qtb","S":"BUY","o":"MARKET","f":"GTC","q":"250","p":"0","ap":"0.02082","sp":"0","x":"TRADE","X":"FILLED","i":1636913992,"l":"250","z":"250","L":"0.02082","n":"0.0026025","N":"USDT","T":1782117945254,"t":135044939,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-22 17:33:59.922】 开始设置持仓模式
+【2026-06-22 17:34:00.043】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 17:34:00.043】 开始设置倍数
+【2026-06-22 17:34:00.157】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 17:34:00.157】 开始获取购买数量
+【2026-06-22 17:34:00.273】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 121, in get_min_qty
+    for item in result['symbols']:
+TypeError: 'coroutine' object is not subscriptable
+【2026-06-22 17:53:02.000】 开始设置持仓模式
+【2026-06-22 17:53:02.132】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 17:53:02.132】 开始设置倍数
+【2026-06-22 17:53:02.260】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 17:53:02.260】 开始获取购买数量
+【2026-06-22 17:53:02.387】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=TypeError("'ClientResponse' object is not subscriptable")>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 121, in get_min_qty
+    for item in result['symbols']:
+TypeError: 'ClientResponse' object is not subscriptable
+【2026-06-22 17:53:16.988】 开始设置持仓模式
+【2026-06-22 17:53:17.152】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 17:53:17.152】 开始设置倍数
+【2026-06-22 17:53:17.330】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 17:53:17.330】 开始获取购买数量
+【2026-06-22 17:53:17.492】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 122, in get_min_qty
+    for item in result['symbols']:
+TypeError: 'coroutine' object is not subscriptable
+【2026-06-22 20:10:19.723】 开始设置持仓模式
+【2026-06-22 20:10:19.880】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:10:19.880】 开始设置倍数
+【2026-06-22 20:10:20.027】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:10:20.027】 开始获取购买数量
+【2026-06-22 20:10:20.176】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 122, in get_min_qty
+    for item in result['symbols']:
+TypeError: 'coroutine' object is not subscriptable
+【2026-06-22 20:11:04.155】 开始设置持仓模式
+【2026-06-22 20:11:04.332】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:11:04.332】 开始设置倍数
+【2026-06-22 20:11:04.492】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:11:04.492】 开始获取购买数量
+【2026-06-22 20:11:04.648】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 122, in get_min_qty
+    for item in result['symbols']:
+TypeError: 'coroutine' object is not subscriptable
+【2026-06-22 20:12:08.322】 开始设置持仓模式
+【2026-06-22 20:12:08.511】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:12:08.511】 开始设置倍数
+【2026-06-22 20:12:08.699】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:12:08.699】 开始获取购买数量
+【2026-06-22 20:12:09.177】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=ContentTypeError(RequestInfo(url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo'), method='POST', headers=<CIMultiDictProxy('Host': 'fapi.binance.com', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.9 aiohttp/3.13.5', 'Content-Length': '0', 'Content-Type': 'application/octet-stream')>, real_url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo')), (), status=404, message='Attempt to decode JSON with unexpected mimetype: text/html', headers=<CIMultiDictProxy('Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 22 Jun 2026 12:12:09 GMT', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains', 'Content-Encoding': 'gzip', 'Server': 'Tengine', 'Vary': 'Accept-Encoding', 'Etag': 'W/"6a2af4b7-59a"', 'X-Frame-Options': 'SAMEORIGIN', 'X-Xss-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'origin-when-cross-origin', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 48235506e76f994b875648be76f96e52.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': 'VlfF28NOoHUcuyeQgj46fLb3CAvtYPPNUNeKm1GbXtR6UVrfMCxE5Q==')>)>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 120, in get_min_qty
+    result = await response.json()
+  File "C:\Users\Joker\币安资金费套利V6.21\lib\site-packages\aiohttp\client_reqrep.py", line 756, in json
+    raise ContentTypeError(
+aiohttp.client_exceptions.ContentTypeError: 404, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://fapi.binance.com/fapi/v1/exchangeInfo'
+【2026-06-22 20:12:35.562】 开始设置持仓模式
+【2026-06-22 20:12:35.737】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:12:35.737】 开始设置倍数
+【2026-06-22 20:12:35.903】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:12:35.903】 开始获取购买数量
+【2026-06-22 20:12:36.070】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=ContentTypeError(RequestInfo(url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo'), method='POST', headers=<CIMultiDictProxy('Host': 'fapi.binance.com', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.9 aiohttp/3.13.5', 'Content-Length': '0', 'Content-Type': 'application/octet-stream')>, real_url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo')), (), status=404, message='Attempt to decode JSON with unexpected mimetype: text/html', headers=<CIMultiDictProxy('Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 22 Jun 2026 12:12:36 GMT', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains', 'Content-Encoding': 'gzip', 'Server': 'Tengine', 'Vary': 'Accept-Encoding', 'Etag': 'W/"6a2afbfe-59a"', 'X-Frame-Options': 'SAMEORIGIN', 'X-Xss-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'origin-when-cross-origin', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 4f537479f7b9a1208d2fac3e75564e44.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': 'Hhk2ORX0X6xPxrM2q7JNNQsEXcfjs8nZb6H2h9gdKYOeeFU4bghIzg==')>)>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 120, in get_min_qty
+    result = await response.json()
+  File "C:\Users\Joker\币安资金费套利V6.21\lib\site-packages\aiohttp\client_reqrep.py", line 756, in json
+    raise ContentTypeError(
+aiohttp.client_exceptions.ContentTypeError: 404, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://fapi.binance.com/fapi/v1/exchangeInfo'
+【2026-06-22 20:12:57.626】 开始设置持仓模式
+【2026-06-22 20:12:57.781】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:12:57.781】 开始设置倍数
+【2026-06-22 20:12:57.925】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:12:57.925】 开始获取购买数量
+【2026-06-22 20:12:58.073】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=ContentTypeError(RequestInfo(url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo'), method='POST', headers=<CIMultiDictProxy('Host': 'fapi.binance.com', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.9 aiohttp/3.13.5', 'Content-Length': '0', 'Content-Type': 'application/octet-stream')>, real_url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo')), (), status=404, message='Attempt to decode JSON with unexpected mimetype: text/html', headers=<CIMultiDictProxy('Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 22 Jun 2026 12:12:58 GMT', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains', 'Content-Encoding': 'gzip', 'Server': 'Tengine', 'Vary': 'Accept-Encoding', 'Etag': 'W/"6a2ad78d-59a"', 'X-Frame-Options': 'SAMEORIGIN', 'X-Xss-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'origin-when-cross-origin', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 49144c19c0cdda563d39c38101613ce6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': 'Hs9MzCzYSPaxr6JsUbpbgyoZJvYBAUcM5favMlrIorHCL7K0i1FoeQ==')>)>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 120, in get_min_qty
+    result = await response.json()
+  File "C:\Users\Joker\币安资金费套利V6.21\lib\site-packages\aiohttp\client_reqrep.py", line 756, in json
+    raise ContentTypeError(
+aiohttp.client_exceptions.ContentTypeError: 404, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://fapi.binance.com/fapi/v1/exchangeInfo'
+【2026-06-22 20:13:50.805】 开始设置持仓模式
+【2026-06-22 20:13:50.957】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:13:50.957】 开始设置倍数
+【2026-06-22 20:13:51.111】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:13:51.112】 开始获取购买数量
+【2026-06-22 20:13:51.259】 Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<rate_refesh() done, defined at C:\Users\Joker\Desktop\python\bianV6.21\action.py:9> exception=ContentTypeError(RequestInfo(url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo'), method='POST', headers=<CIMultiDictProxy('Host': 'fapi.binance.com', 'X-MBX-APIKEY': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.9 aiohttp/3.13.5', 'Content-Length': '0', 'Content-Type': 'application/octet-stream')>, real_url=URL('https://fapi.binance.com/fapi/v1/exchangeInfo')), (), status=404, message='Attempt to decode JSON with unexpected mimetype: text/html', headers=<CIMultiDictProxy('Content-Type': 'text/html', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 22 Jun 2026 12:13:51 GMT', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains', 'Content-Encoding': 'gzip', 'Server': 'Tengine', 'Vary': 'Accept-Encoding', 'Etag': 'W/"6a2ad78e-59a"', 'X-Frame-Options': 'SAMEORIGIN', 'X-Xss-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'origin-when-cross-origin', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 d4986638703b6aee2a2fd25405d8ef48.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': 'uc93SB69FeNEbJV1nBYbT4T4WQtwx4srLXYqjRESRgz8DlJm3ohc5w==')>)>
+Traceback (most recent call last):
+  File "C:\Users\Joker\Desktop\python\bianV6.21\action.py", line 10, in rate_refesh
+    await get_sysbol(Bitcoin)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 60, in get_sysbol
+    await get_min_qty(session,Bitcoin['symbol'],1)
+  File "C:\Users\Joker\Desktop\python\bianV6.21\api\__init__.py", line 120, in get_min_qty
+    result = await response.json()
+  File "C:\Users\Joker\币安资金费套利V6.21\lib\site-packages\aiohttp\client_reqrep.py", line 756, in json
+    raise ContentTypeError(
+aiohttp.client_exceptions.ContentTypeError: 404, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://fapi.binance.com/fapi/v1/exchangeInfo'
+【2026-06-22 20:14:34.595】 开始设置持仓模式
+【2026-06-22 20:14:34.754】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 20:14:34.755】 开始设置倍数
+【2026-06-22 20:14:34.902】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 20:14:34.902】 开始获取购买数量
+【2026-06-22 20:14:35.155】 一张数量：1
+【2026-06-22 20:14:35.156】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.014003, 'nextFundingTime': 1782133200000}
+【2026-06-22 21:40:38.123】 开始设置持仓模式
+【2026-06-22 21:40:38.302】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 21:40:38.302】 开始设置倍数
+【2026-06-22 21:40:38.474】 设置错误HOMEUSDT,倍数:10
+【2026-06-22 21:40:38.474】 开始获取购买数量
+【2026-06-22 21:40:38.792】 购买金额:1购买数量：48.43879346715680267149633730
+【2026-06-22 21:40:38.793】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000'}
+【2026-06-22 21:42:19.519】 开始设置持仓模式
+【2026-06-22 21:42:19.663】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 21:42:19.663】 开始设置倍数
+【2026-06-22 21:42:19.798】 设置错误HOMEUSDT,倍数:10
+【2026-06-22 21:42:19.798】 开始获取购买数量
+【2026-06-22 21:42:20.031】 购买金额:10购买数量：483.7877874546086108420713471
+【2026-06-22 21:42:20.032】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000'}
+【2026-06-22 21:43:37.369】 开始设置持仓模式
+【2026-06-22 21:43:37.526】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 21:43:37.526】 开始设置倍数
+【2026-06-22 21:43:37.666】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 21:43:37.666】 开始获取购买数量
+【2026-06-22 21:43:37.980】 购买金额:10购买数量：485.2013585638039786511402232
+【2026-06-22 21:43:37.982】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.031227, 'nextFundingTime': 1782136800000, 'markPrice': Decimal('0.02061000')}
+【2026-06-22 21:43:57.520】 开始设置持仓模式
+【2026-06-22 21:43:57.673】 设置持仓模式完毕:HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 21:43:57.673】 开始设置倍数
+【2026-06-22 21:43:57.823】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 21:43:57.823】 开始获取购买数量
+【2026-06-22 21:43:58.103】 购买金额:10购买数量：484.9056155464619589120075723
+【2026-06-22 21:43:58.104】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.031227, 'nextFundingTime': 1782136800000, 'markPrice': Decimal('0.02062257')}
+【2026-06-22 21:58:13.859】 开始设置持仓模式
+【2026-06-22 21:58:14.006】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 21:58:14.006】 开始设置倍数
+【2026-06-22 21:58:14.154】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 21:58:14.154】 开始获取购买数量
+【2026-06-22 21:58:14.414】 购买金额:10购买数量：483.5589941972920696324951644
+【2026-06-22 21:58:14.415】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.02643, 'nextFundingTime': 1782136800000, 'markPrice': Decimal('0.02068000')}
+【2026-06-22 21:58:37.004】 开始设置持仓模式
+【2026-06-22 21:58:37.155】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-22 21:58:37.155】 开始设置倍数
+【2026-06-22 21:58:37.314】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-22 21:58:37.314】 开始获取购买数量
+【2026-06-22 21:58:37.585】 购买金额:10购买数量：483
+【2026-06-22 21:58:37.587】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.02643, 'nextFundingTime': 1782136800000, 'markPrice': Decimal('0.02070000')}
+【2026-06-22 21:59:43.218】 ✅ WebSocket positions通道已连接
+【2026-06-22 21:59:43.219】 [positions WS] 等待接受信息
+【2026-06-22 21:59:43.766】 ✅ WebSocket order通道已连接
+【2026-06-22 21:59:43.766】 [order WS] 启动成功，等待接受信息
+【2026-06-22 22:00:00.018】 下单类型:下单 下单信息:{'id': 'f2bfbb5b-d33e-4199-b02e-de57b2a4f129', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'timestamp': 1782136800018, 'signature': '9395f37059537b7d0421d7e2fb224778a0f19ce5026a152227d6888982706955'}}
+【2026-06-22 22:00:00.018】 准备首次下单
+【2026-06-22 22:00:00.200】 ✅ 下单成功: {'id': 'f2bfbb5b-d33e-4199-b02e-de57b2a4f129', 'status': 200, 'result': {'orderId': 1637364612, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'P8AnGwiKET6F7o8QaMdOch', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '250', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782136800087}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-22 22:00:00.202】 {"e":"TRADE_LITE","E":1782136800087,"T":1782136800087,"s":"HOMEUSDT","q":"250","p":"0.0000000","m":false,"c":"P8AnGwiKET6F7o8QaMdOch","S":"BUY","L":"0.0207400","l":"250","t":135099900,"i":1637364612}
+【2026-06-22 22:00:00.202】 [positions WS] 异常: 'str' object has no attribute 'get'
+【2026-06-22 23:59:51.326】 开始获取购买数量
+【2026-06-22 23:59:52.134】 购买金额:10购买数量：71
+【2026-06-22 23:59:52.135】 开始获取购买数量
+【2026-06-22 23:59:52.368】 购买金额:8.333333333333334购买数量：59
+【2026-06-22 23:59:52.370】 开始设置持仓模式
+【2026-06-22 23:59:52.515】 设置持仓模式错误HUSDT,持仓模式:逐仓模式
+【2026-06-22 23:59:52.515】 开始设置倍数
+【2026-06-22 23:59:52.588】 ✅ WebSocket positions通道已连接
+【2026-06-22 23:59:52.588】 [positions WS] 等待接受信息
+【2026-06-22 23:59:52.677】 设置错误HUSDT,倍数:10
+【2026-06-22 23:59:52.677】 开始获取购买数量
+【2026-06-22 23:59:52.896】 购买金额:10购买数量：12
+【2026-06-22 23:59:52.896】 开始获取购买数量
+【2026-06-22 23:59:53.090】 购买金额:8.333333333333334购买数量：10
+【2026-06-22 23:59:53.091】 开始设置持仓模式
+【2026-06-22 23:59:53.092】 ✅ WebSocket order通道已连接
+【2026-06-22 23:59:53.092】 [order WS] 启动成功，等待接受信息
+【2026-06-22 23:59:53.245】 设置持仓模式错误REUSDT,持仓模式:逐仓模式
+【2026-06-22 23:59:53.245】 开始设置倍数
+【2026-06-22 23:59:53.397】 设置完毕:REUSDT,倍数:10
+【2026-06-22 23:59:53.398】 📈{'symbol': 'REUSDT', 'lastFundingRate': -0.32887, 'nextFundingTime': 1782144000000, 'markPrice': Decimal('0.77770000'), 'min_qty': 12, 'qty': 10}
+【2026-06-23 01:57:10.820】 开始获取购买数量
+【2026-06-23 01:57:11.199】 购买金额:10购买数量：488
+【2026-06-23 01:57:11.200】 开始获取购买数量
+【2026-06-23 01:57:11.432】 购买金额:8.333333333333334购买数量：406
+【2026-06-23 01:57:11.434】 开始设置持仓模式
+【2026-06-23 01:57:11.598】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 01:57:11.598】 开始设置倍数
+【2026-06-23 01:57:11.776】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 01:57:11.777】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.025922, 'nextFundingTime': 1782151200000, 'markPrice': Decimal('0.02048000'), 'min_qty': 488, 'qty': 406}
+【2026-06-23 01:58:12.426】 开始获取购买数量
+【2026-06-23 01:58:12.673】 购买金额:10购买数量：488
+【2026-06-23 01:58:12.675】 开始获取购买数量
+【2026-06-23 01:58:12.863】 购买金额:8.333333333333334购买数量：407
+【2026-06-23 01:58:12.864】 开始设置持仓模式
+【2026-06-23 01:58:13.004】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 01:58:13.004】 开始设置倍数
+【2026-06-23 01:58:13.161】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 01:58:13.161】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.025765, 'nextFundingTime': 1782151200000, 'markPrice': Decimal('0.02046497'), 'min_qty': 488, 'qty': 407}
+【2026-06-23 01:59:43.563】 ✅ WebSocket positions通道已连接
+【2026-06-23 01:59:43.563】 [positions WS] 等待接受信息
+【2026-06-23 01:59:44.047】 ✅ WebSocket order通道已连接
+【2026-06-23 01:59:44.047】 [order WS] 启动成功，等待接受信息
+【2026-06-23 02:00:00.004】 下单类型:下单 下单信息:{'id': '3a87af08-0456-4544-8f5f-01755a7ea3e7', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782151200004, 'signature': '7124dace0123967e52cdce21155b84be526c1f469aa1b55e0cd810e0e1d34980'}}
+【2026-06-23 02:00:00.004】 准备首次下单
+【2026-06-23 02:00:00.181】 ❌ 下单失败: {'id': '3a87af08-0456-4544-8f5f-01755a7ea3e7', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-23 02:00:01.013】 下单类型:追加 下单信息:{'id': '641b44f4-6b9e-4d79-8d25-f23c291b2746', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782151201013, 'signature': '838f8e242e60e8a96c5fec6f0a2d802b1fa012ccb42eb311df3e73edd7f55ecb'}}
+【2026-06-23 02:00:01.013】 准备追加下单
+【2026-06-23 02:00:01.013】 [order_ws] 异常: received 1008 (policy violation) disconnected; then sent 1008 (policy violation) disconnected
+【2026-06-23 02:02:43.571】 🐕[potions_ws] 接受超时
+【2026-06-23 10:57:48.346】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000'}
+【2026-06-23 10:57:58.166】 开始获取购买数量
+【2026-06-23 10:57:58.452】 购买金额:10购买数量：492
+【2026-06-23 10:57:58.453】 开始获取购买数量
+【2026-06-23 10:57:58.685】 购买金额:8.333333333333334购买数量：410
+【2026-06-23 10:57:58.685】 开始设置持仓模式
+【2026-06-23 10:57:58.850】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 10:57:58.850】 开始设置倍数
+【2026-06-23 10:57:59.026】 设置错误HOMEUSDT,倍数:10
+【2026-06-23 10:57:59.026】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000', 'min_qty': 492, 'qty': 410}
+【2026-06-23 10:58:59.558】 开始获取购买数量
+【2026-06-23 10:58:59.780】 购买金额:10购买数量：493
+【2026-06-23 10:58:59.782】 开始获取购买数量
+【2026-06-23 10:58:59.949】 购买金额:8.333333333333334购买数量：411
+【2026-06-23 10:58:59.949】 开始设置持仓模式
+【2026-06-23 10:59:00.092】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 10:59:00.092】 开始设置倍数
+【2026-06-23 10:59:00.221】 设置错误HOMEUSDT,倍数:10
+【2026-06-23 10:59:00.222】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000', 'min_qty': 493, 'qty': 411}
+【2026-06-23 10:59:15.900】 开始获取购买数量
+【2026-06-23 10:59:16.139】 购买金额:10购买数量：493
+【2026-06-23 10:59:16.140】 开始获取购买数量
+【2026-06-23 10:59:16.334】 购买金额:8购买数量：394
+【2026-06-23 10:59:16.335】 开始设置持仓模式
+【2026-06-23 10:59:16.487】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 10:59:16.487】 开始设置倍数
+【2026-06-23 10:59:16.637】 设置错误HOMEUSDT,倍数:10
+【2026-06-23 10:59:16.637】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000', 'min_qty': 493, 'qty': 394}
+【2026-06-23 10:59:40.443】 开始获取购买数量
+【2026-06-23 10:59:40.666】 购买金额:10购买数量：493
+【2026-06-23 10:59:40.668】 开始获取购买数量
+【2026-06-23 10:59:40.852】 购买金额:8购买数量：394
+【2026-06-23 10:59:40.853】 开始设置持仓模式
+【2026-06-23 10:59:40.992】 设置持仓模式错误HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 10:59:40.992】 开始设置倍数
+【2026-06-23 10:59:41.131】 设置错误HOMEUSDT,倍数:10
+【2026-06-23 10:59:41.132】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000', 'min_qty': 493, 'qty': 394}
+【2026-06-23 11:00:48.604】 开始获取购买数量
+【2026-06-23 11:00:48.808】 购买金额:10购买数量：12
+【2026-06-23 11:00:48.810】 开始获取购买数量
+【2026-06-23 11:00:48.977】 购买金额:8购买数量：10
+【2026-06-23 11:00:48.978】 开始设置持仓模式
+【2026-06-23 11:00:49.113】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 400
+【2026-06-23 11:00:49.114】 开始设置倍数
+【2026-06-23 11:00:49.255】 设置错误LAYERUSDT,倍数:10
+【2026-06-23 11:00:49.255】 开始获取购买数量
+【2026-06-23 11:00:49.422】 购买金额:10购买数量：425
+【2026-06-23 11:00:49.423】 开始获取购买数量
+【2026-06-23 11:00:49.635】 购买金额:8购买数量：340
+【2026-06-23 11:00:49.636】 开始设置持仓模式
+【2026-06-23 11:00:49.776】 设置持仓模式错误FIDAUSDT,持仓模式:逐仓模式 400
+【2026-06-23 11:00:49.776】 开始设置倍数
+【2026-06-23 11:00:49.912】 设置错误FIDAUSDT,倍数:10
+【2026-06-23 11:00:49.912】 开始获取购买数量
+【2026-06-23 11:00:50.078】 购买金额:10购买数量：141
+【2026-06-23 11:00:50.079】 开始获取购买数量
+【2026-06-23 11:00:50.251】 购买金额:8购买数量：112
+【2026-06-23 11:00:50.252】 开始设置持仓模式
+【2026-06-23 11:00:50.379】 设置持仓模式错误TAIKOUSDT,持仓模式:逐仓模式 400
+【2026-06-23 11:00:50.379】 开始设置倍数
+【2026-06-23 11:00:50.511】 设置错误TAIKOUSDT,倍数:10
+【2026-06-23 11:00:50.511】 开始获取购买数量
+【2026-06-23 11:02:53.066】 开始获取购买数量
+【2026-06-23 11:02:53.351】 购买金额:10购买数量：12
+【2026-06-23 11:02:53.352】 开始获取购买数量
+【2026-06-23 11:02:53.673】 购买金额:8购买数量：10
+【2026-06-23 11:02:53.674】 开始设置持仓模式
+【2026-06-23 11:02:53.848】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 <bound method ClientResponse.text of <ClientResponse(https://fapi.binance.com/fapi/v1/marginType?symbol=LAYERUSDT&marginType=ISOLATED&timestamp=1782183773675&signature=c19949c79f59cacfdda791b4a826d072cd5d4a711b71a130a7aad0bdcf866a3c) [400 Bad Request]>
+<CIMultiDictProxy('Content-Type': 'application/json', 'Content-Length': '88', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Jun 2026 03:02:52 GMT', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS', 'Server': 'Tengine', 'x-mbx-used-weight-1m': '13', 'x-response-time': '1ms', 'Access-Control-Allow-Origin': '*', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 0db4533e4f48aac49937da95f77d7052.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': 'eYtpCvAmuyBTzoVoRIQ8TNa10Sm1rpPh9YWE_dH1FmJIsZEevh9VMw==')>
+>
+【2026-06-23 11:02:53.848】 开始设置倍数
+【2026-06-23 11:02:54.014】 设置错误LAYERUSDT,倍数:10
+【2026-06-23 11:02:54.014】 开始获取购买数量
+【2026-06-23 11:03:31.374】 开始获取购买数量
+【2026-06-23 11:03:31.576】 购买金额:10购买数量：13
+【2026-06-23 11:03:31.576】 开始获取购买数量
+【2026-06-23 11:03:31.748】 购买金额:8购买数量：10
+【2026-06-23 11:03:31.748】 开始设置持仓模式
+【2026-06-23 11:03:31.879】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 <StreamReader 88 bytes eof>
+【2026-06-23 11:03:31.879】 开始设置倍数
+【2026-06-23 11:03:32.013】 设置错误LAYERUSDT,倍数:10
+【2026-06-23 11:03:32.013】 开始获取购买数量
+【2026-06-23 11:03:32.196】 购买金额:10购买数量：427
+【2026-06-23 11:03:32.196】 开始获取购买数量
+【2026-06-23 11:03:32.373】 购买金额:8购买数量：342
+【2026-06-23 11:03:32.375】 开始设置持仓模式
+【2026-06-23 11:03:32.500】 设置持仓模式错误FIDAUSDT,持仓模式:逐仓模式 <StreamReader 88 bytes eof>
+【2026-06-23 11:03:32.500】 开始设置倍数
+【2026-06-23 11:03:38.491】 开始获取购买数量
+【2026-06-23 11:03:38.728】 购买金额:10购买数量：13
+【2026-06-23 11:03:38.730】 开始获取购买数量
+【2026-06-23 11:03:38.906】 购买金额:8购买数量：10
+【2026-06-23 11:03:38.906】 开始设置持仓模式
+【2026-06-23 11:03:39.048】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 <bound method ClientResponse.text of <ClientResponse(https://fapi.binance.com/fapi/v1/marginType?symbol=LAYERUSDT&marginType=ISOLATED&timestamp=1782183818907&signature=907dfa770ea834588ae61ad6d4382af56b23cd4975ae11de4d799964dd7e6f55) [400 Bad Request]>
+<CIMultiDictProxy('Content-Type': 'application/json', 'Content-Length': '88', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Jun 2026 03:03:37 GMT', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS', 'Server': 'Tengine', 'x-mbx-used-weight-1m': '31', 'x-response-time': '0ms', 'Access-Control-Allow-Origin': '*', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 d4986638703b6aee2a2fd25405d8ef48.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'TPE53-P4', 'X-Amz-Cf-Id': 'BdEOn0hvFHeeB8qCVQimjIk1ZWa37SUw1W7dCXKe_G1cbgFtHFqeLg==')>
+>
+【2026-06-23 11:03:39.048】 开始设置倍数
+【2026-06-23 11:03:39.174】 设置错误LAYERUSDT,倍数:10
+【2026-06-23 11:03:39.174】 开始获取购买数量
+【2026-06-23 11:03:39.373】 购买金额:10购买数量：427
+【2026-06-23 11:03:39.375】 开始获取购买数量
+【2026-06-23 11:08:17.085】 开始获取购买数量
+【2026-06-23 11:08:17.306】 购买金额:10购买数量：13
+【2026-06-23 11:08:17.307】 开始获取购买数量
+【2026-06-23 11:08:17.489】 购买金额:8购买数量：10
+【2026-06-23 11:08:17.489】 开始设置持仓模式
+【2026-06-23 11:08:17.623】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+【2026-06-23 11:08:17.624】 开始设置倍数
+【2026-06-23 11:08:17.756】 设置错误LAYERUSDT,倍数:10
+【2026-06-23 11:08:17.756】 开始获取购买数量
+【2026-06-23 11:08:17.987】 购买金额:10购买数量：424
+【2026-06-23 11:08:17.987】 开始获取购买数量
+【2026-06-23 11:08:18.167】 购买金额:8购买数量：339
+【2026-06-23 11:08:18.168】 开始设置持仓模式
+【2026-06-23 11:08:18.309】 设置持仓模式错误FIDAUSDT,持仓模式:逐仓模式 {"code":-1021,"msg":"Timestamp for this request was 1000ms ahead of the server's time."}
+【2026-06-23 11:08:18.309】 开始设置倍数
+【2026-06-23 11:08:18.443】 设置错误FIDAUSDT,倍数:10
+【2026-06-23 11:08:18.443】 开始获取购买数量
+【2026-06-23 11:11:43.600】 开始获取购买数量
+【2026-06-23 11:11:43.917】 购买金额:10购买数量：13
+【2026-06-23 11:11:43.918】 开始获取购买数量
+【2026-06-23 11:11:44.158】 购买金额:8购买数量：10
+【2026-06-23 11:11:44.160】 开始设置持仓模式
+【2026-06-23 11:11:44.344】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 {"code":-4046,"msg":"No need to change margin type."}
+【2026-06-23 11:11:44.345】 开始设置倍数
+【2026-06-23 11:11:44.550】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:11:44.551】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.536004, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07609000'), 'min_qty': 13, 'qty': 10}
+【2026-06-23 11:12:36.056】 开始获取购买数量
+【2026-06-23 11:12:36.289】 购买金额:10购买数量：13
+【2026-06-23 11:12:36.289】 开始获取购买数量
+【2026-06-23 11:12:36.469】 购买金额:8购买数量：10
+【2026-06-23 11:12:36.470】 开始设置持仓模式
+【2026-06-23 11:12:36.615】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 400
+【2026-06-23 11:12:36.616】 开始设置倍数
+【2026-06-23 11:12:36.746】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:12:36.746】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.537293, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07608000'), 'min_qty': 13, 'qty': 10}
+【2026-06-23 11:12:49.855】 开始获取购买数量
+【2026-06-23 11:12:50.115】 购买金额:10购买数量：13
+【2026-06-23 11:12:50.116】 开始获取购买数量
+【2026-06-23 11:12:50.312】 购买金额:8购买数量：10
+【2026-06-23 11:12:50.312】 开始设置持仓模式
+【2026-06-23 11:12:50.465】 设置持仓模式错误LAYERUSDT,持仓模式:逐仓模式 {"code":-4046,"msg":"No need to change margin type."}
+【2026-06-23 11:12:50.465】 开始设置倍数
+【2026-06-23 11:12:50.613】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:12:50.613】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.537293, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07590000'), 'min_qty': 13, 'qty': 10}
+【2026-06-23 11:14:44.249】 开始获取购买数量
+【2026-06-23 11:14:44.462】 购买金额:10购买数量：13
+【2026-06-23 11:14:44.464】 开始获取购买数量
+【2026-06-23 11:14:44.635】 购买金额:8购买数量：10
+【2026-06-23 11:14:44.636】 开始设置持仓模式
+【2026-06-23 11:14:44.778】 已设置LAYERUSDT,持仓模式:逐仓模式
+【2026-06-23 11:14:44.778】 开始设置倍数
+【2026-06-23 11:14:44.907】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:14:44.908】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.5369780000000001, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07606000'), 'min_qty': 13, 'qty': 10}
+【2026-06-23 11:14:56.862】 开始获取购买数量
+【2026-06-23 11:14:57.141】 购买金额:10购买数量：13
+【2026-06-23 11:14:57.142】 开始获取购买数量
+【2026-06-23 11:14:57.327】 购买金额:8购买数量：10
+【2026-06-23 11:14:57.327】 开始设置持仓模式
+【2026-06-23 11:14:57.462】 已设置LAYERUSDT,持仓模式:逐仓模式
+【2026-06-23 11:14:57.462】 开始设置倍数
+【2026-06-23 11:14:57.601】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:14:57.601】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.5369780000000001, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07616000'), 'min_qty': 13, 'qty': 10}
+【2026-06-23 11:53:00.107】 开始获取购买数量
+【2026-06-23 11:53:00.286】 购买金额:10购买数量：12
+【2026-06-23 11:53:00.286】 开始获取购买数量
+【2026-06-23 11:53:00.435】 购买金额:8购买数量：10
+【2026-06-23 11:53:00.436】 开始设置持仓模式
+【2026-06-23 11:53:00.549】 已设置LAYERUSDT,持仓模式:逐仓模式
+【2026-06-23 11:53:00.549】 开始设置倍数
+【2026-06-23 11:53:00.663】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:53:00.664】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.5844509999999999, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07838322'), 'min_qty': 12, 'qty': 10}
+【2026-06-23 11:58:01.135】 开始获取购买数量
+【2026-06-23 11:58:01.309】 购买金额:10购买数量：12
+【2026-06-23 11:58:01.310】 开始获取购买数量
+【2026-06-23 11:58:01.455】 购买金额:8购买数量：10
+【2026-06-23 11:58:01.456】 开始设置持仓模式
+【2026-06-23 11:58:01.568】 已设置LAYERUSDT,持仓模式:逐仓模式
+【2026-06-23 11:58:01.568】 开始设置倍数
+【2026-06-23 11:58:01.678】 设置完毕:LAYERUSDT,倍数:10
+【2026-06-23 11:58:01.679】 📈{'symbol': 'LAYERUSDT', 'lastFundingRate': -0.5901649999999999, 'nextFundingTime': 1782187200000, 'markPrice': Decimal('0.07848000'), 'min_qty': 12, 'qty': 10}
+【2026-06-23 11:59:43.934】 ✅ WebSocket positions通道已连接
+【2026-06-23 11:59:43.934】 [positions WS] 等待接受信息
+【2026-06-23 11:59:44.323】 ✅ WebSocket order通道已连接
+【2026-06-23 11:59:44.323】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:00:00.016】 准备首次下单
+【2026-06-23 12:00:00.016】 下单类型:下单 下单信息:{'id': '5bdb49d5-b610-4386-9a8c-47fc86358c31', 'method': 'order.place', 'params': {'symbol': 'LAYERUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782187200016, 'signature': '3c31a221d74f5ae67f36d44cc625b1898f51cc1c1f06efe4bb2d5cb85cf9048b'}}
+【2026-06-23 12:00:00.134】 ❌ 下单失败: {'id': '5bdb49d5-b610-4386-9a8c-47fc86358c31', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-23 12:00:00.998】 准备追加下单
+【2026-06-23 12:00:00.998】 下单类型:追加 下单信息:{'id': '42d019c1-a62d-4cb6-9d55-289ab9237ebf', 'method': 'order.place', 'params': {'symbol': 'LAYERUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782187200998, 'signature': 'dcca2c3bad6f37e00b01b3f2d26a99eac0ae6c292a5bcb2493f0a58c42733f07'}}
+【2026-06-23 12:00:00.998】 [order_ws] 异常: received 1008 (policy violation) disconnected; then sent 1008 (policy violation) disconnected
+【2026-06-23 12:00:51.192】 ✅ WebSocket order通道已连接
+【2026-06-23 12:00:51.192】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:00:51.219】 📈{'symbol': 'BTCUSDT', 'lastFundingRate': '0.00000000', 'nextFundingTime': 1782025200000, 'markPrice': '0.0000'}
+【2026-06-23 12:01:07.961】 开始获取购买数量
+【2026-06-23 12:01:08.016】 ✅ WebSocket order通道已连接
+【2026-06-23 12:01:08.016】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:01:08.168】 购买金额:10购买数量：498
+【2026-06-23 12:01:08.169】 开始获取购买数量
+【2026-06-23 12:01:08.338】 购买金额:8购买数量：399
+【2026-06-23 12:01:08.339】 开始设置持仓模式
+【2026-06-23 12:01:08.470】 设置持仓模式完毕:HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:01:08.471】 开始设置倍数
+【2026-06-23 12:01:08.598】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:01:08.598】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.007122999999999999, 'nextFundingTime': 1782190800000, 'markPrice': Decimal('0.02004709'), 'min_qty': 498, 'qty': 399}
+【2026-06-23 12:01:13.035】 准备首次下单
+【2026-06-23 12:01:13.035】 下单类型:下单 下单信息:{'id': '3bb84ec0-3983-48a9-9f90-054e42201cdb', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782187273035, 'signature': '4dc0da39f85b873138628e3f3ba2a4c015544e9c45f397783dd1ff31dd7f34d2'}}
+【2026-06-23 12:01:13.201】 ❌ 下单失败: {'id': '3bb84ec0-3983-48a9-9f90-054e42201cdb', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-23 12:01:45.661】 ✅ WebSocket order通道已连接
+【2026-06-23 12:01:45.662】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:01:45.697】 开始获取购买数量
+【2026-06-23 12:01:45.973】 购买金额:10购买数量：497
+【2026-06-23 12:01:45.974】 开始获取购买数量
+【2026-06-23 12:01:46.118】 购买金额:8购买数量：398
+【2026-06-23 12:01:46.119】 开始设置持仓模式
+【2026-06-23 12:01:46.230】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:01:46.230】 开始设置倍数
+【2026-06-23 12:01:46.338】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:01:46.338】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.007122999999999999, 'nextFundingTime': 1782190800000, 'markPrice': Decimal('0.02009000'), 'min_qty': 497, 'qty': 398}
+【2026-06-23 12:01:50.660】 准备首次下单
+【2026-06-23 12:01:50.660】 下单类型:下单 下单信息:{'id': '196ac3e4-9606-441a-8e91-3be654152e48', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 500, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782187310660, 'signature': '69db6192a1be1d1dd4476e77fb0abf706ebe445b624176be74a7185ce67b0573'}}
+【2026-06-23 12:01:50.771】 ❌ 下单失败: {'id': '196ac3e4-9606-441a-8e91-3be654152e48', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-23 12:03:30.636】 ✅ WebSocket order通道已连接
+【2026-06-23 12:03:30.637】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:03:30.713】 开始获取购买数量
+【2026-06-23 12:03:30.905】 购买金额:10购买数量：497
+【2026-06-23 12:03:30.906】 开始获取购买数量
+【2026-06-23 12:03:31.061】 购买金额:8购买数量：397
+【2026-06-23 12:03:31.062】 开始设置持仓模式
+【2026-06-23 12:03:31.188】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:03:31.188】 开始设置倍数
+【2026-06-23 12:03:31.307】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:03:31.308】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.007625, 'nextFundingTime': 1782190800000, 'markPrice': Decimal('0.02010471'), 'min_qty': 497, 'qty': 397}
+【2026-06-23 12:03:35.649】 准备首次下单
+【2026-06-23 12:03:35.649】 下单类型:下单 下单信息:{'id': 'd8ce87a9-5d78-4dd2-b513-94d95be3fd47', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '500', 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': False, 'timestamp': 1782187415649, 'signature': '039f5fb279ad1724f834da162697a36b673aae7c91d558f8cc25691a9a4d4121'}}
+【2026-06-23 12:03:35.760】 ❌ 下单失败: {'id': 'd8ce87a9-5d78-4dd2-b513-94d95be3fd47', 'status': 400, 'error': {'code': -1022, 'msg': 'Signature for this request is not valid.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}]}
+【2026-06-23 12:04:20.657】 ✅ WebSocket order通道已连接
+【2026-06-23 12:04:20.657】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:04:20.843】 开始获取购买数量
+【2026-06-23 12:04:21.128】 购买金额:10购买数量：497
+【2026-06-23 12:04:21.129】 开始获取购买数量
+【2026-06-23 12:04:21.360】 购买金额:8购买数量：397
+【2026-06-23 12:04:21.361】 开始设置持仓模式
+【2026-06-23 12:04:21.525】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:04:21.525】 开始设置倍数
+【2026-06-23 12:04:21.691】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:04:21.691】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.007608, 'nextFundingTime': 1782190800000, 'markPrice': Decimal('0.02011000'), 'min_qty': 497, 'qty': 397}
+【2026-06-23 12:04:25.666】 准备首次下单
+【2026-06-23 12:04:25.666】 下单类型:下单 下单信息:{'id': 'dd0925e8-f7b2-4643-9d32-cc1434051378', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782187465666, 'signature': 'f7a801baa144b5184c31ac5d77a0c2afb768ac781ba9034bcd27855c28b90007'}}
+【2026-06-23 12:04:25.822】 ✅ 下单成功: {'id': 'dd0925e8-f7b2-4643-9d32-cc1434051378', 'status': 200, 'result': {'orderId': 1638248580, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'Enyu9tt8Jy8DYwIXZWTaZ3', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '250', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782187465766}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-23 12:04:25.822】 ❌ 等待下单响应失败: 'Sell_sz'
+【2026-06-23 12:06:01.010】 ✅ WebSocket order通道已连接
+【2026-06-23 12:06:01.010】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:06:01.045】 开始获取购买数量
+【2026-06-23 12:06:01.239】 购买金额:10购买数量：497
+【2026-06-23 12:06:01.240】 开始获取购买数量
+【2026-06-23 12:06:01.392】 购买金额:8购买数量：398
+【2026-06-23 12:06:01.392】 开始设置持仓模式
+【2026-06-23 12:06:01.517】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:06:01.517】 开始设置倍数
+【2026-06-23 12:06:01.638】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:06:01.639】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.007643, 'nextFundingTime': 1782190800000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.02009076'), 'min_qty': 497, 'qty': 398}
+【2026-06-23 12:06:06.018】 准备首次下单
+【2026-06-23 12:06:06.018】 下单类型:下单 下单信息:{'id': '426c43c9-9366-45d6-9f25-81798784e0ba', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782187566018, 'signature': 'cbdef690a92ecfe41d5710d05ad55b5f065060173f601a076478166bb200934b'}}
+【2026-06-23 12:06:06.139】 ✅ 下单成功: {'id': '426c43c9-9366-45d6-9f25-81798784e0ba', 'status': 200, 'result': {'orderId': 1638249801, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'kcJqeCC3fzFfStlM0U3SfE', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '250', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782187566081}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-23 12:06:07.470】 ✅ WebSocket order通道已连接
+【2026-06-23 12:06:07.470】 [order WS] 启动成功，等待接受信息
+【2026-06-23 12:54:25.195】 开始获取购买数量
+【2026-06-23 12:54:25.409】 购买金额:10购买数量：502
+【2026-06-23 12:54:25.409】 开始获取购买数量
+【2026-06-23 12:54:25.580】 购买金额:8购买数量：401
+【2026-06-23 12:54:25.581】 开始设置持仓模式
+【2026-06-23 12:54:25.719】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:54:25.719】 开始设置倍数
+【2026-06-23 12:54:25.857】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:54:25.857】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.009748, 'nextFundingTime': 1782190800000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.01992000'), 'min_qty': 502, 'qty': 401}
+【2026-06-23 12:58:26.601】 开始获取购买数量
+【2026-06-23 12:58:26.898】 购买金额:10购买数量：502
+【2026-06-23 12:58:26.899】 开始获取购买数量
+【2026-06-23 12:58:27.120】 购买金额:8购买数量：402
+【2026-06-23 12:58:27.122】 开始设置持仓模式
+【2026-06-23 12:58:27.286】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 12:58:27.286】 开始设置倍数
+【2026-06-23 12:58:27.449】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 12:58:27.449】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.009888000000000001, 'nextFundingTime': 1782190800000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.01990033'), 'min_qty': 502, 'qty': 402}
+【2026-06-23 12:59:43.408】 ✅ WebSocket positions通道已连接
+【2026-06-23 12:59:43.408】 [positions WS] 等待接受信息
+【2026-06-23 12:59:43.768】 ✅ WebSocket order通道已连接
+【2026-06-23 12:59:43.768】 [order WS] 启动成功，等待接受信息
+【2026-06-23 13:00:00.005】 准备首次下单
+【2026-06-23 13:00:00.005】 下单类型:下单 下单信息:{'id': 'f559c84e-a9d0-4953-aab3-396c56281d42', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190800005, 'signature': '56afc6d1557a77ef403197aa8aa2e90c465be4c67af363ff3d596a6b4f9042c3'}}
+【2026-06-23 13:00:00.113】 ❌ 下单失败: {'id': 'f559c84e-a9d0-4953-aab3-396c56281d42', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-23 13:00:01.008】 准备追加下单
+【2026-06-23 13:00:01.008】 下单类型:追加 下单信息:{'id': '5ba9836d-4650-40c0-86fc-00339de8ab3b', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190801008, 'signature': 'c4cc5f3ad4bf47b3bb91370a77108a24916ef65254c9ee8cd3a854f253c2e7da'}}
+【2026-06-23 13:00:01.111】 ❌ 下单失败: {'id': '5ba9836d-4650-40c0-86fc-00339de8ab3b', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 2}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 2}]}
+【2026-06-23 13:00:02.025】 准备追加下单
+【2026-06-23 13:00:02.025】 下单类型:追加 下单信息:{'id': '036ac959-4327-4e8a-90ab-903d37a14f48', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190802025, 'signature': 'eeb7bcb8711b0b7310fa27d5cdab7c767bd3c057a79ffd21165de4f03b4be2dd'}}
+【2026-06-23 13:00:02.134】 ❌ 下单失败: {'id': '036ac959-4327-4e8a-90ab-903d37a14f48', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 3}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 3}]}
+【2026-06-23 13:00:03.007】 准备追加下单
+【2026-06-23 13:00:03.007】 下单类型:追加 下单信息:{'id': 'f98a8900-6fdb-44c7-9f21-4722284ab5ee', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190803007, 'signature': 'c8c5eb67f71f02c2e3f70d01e95b62d4c63ff695c027d96d9a4e49ff9a6c1080'}}
+【2026-06-23 13:00:03.113】 ❌ 下单失败: {'id': 'f98a8900-6fdb-44c7-9f21-4722284ab5ee', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 4}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 4}]}
+【2026-06-23 13:00:04.013】 准备追加下单
+【2026-06-23 13:00:04.013】 下单类型:追加 下单信息:{'id': 'bbccd552-7c69-4d4b-bacd-379f82720351', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190804013, 'signature': '8738be64e6d56f88b261f50734775bc6c7040a0c657a13cc411b94b8daf3c7ea'}}
+【2026-06-23 13:00:04.122】 ❌ 下单失败: {'id': 'bbccd552-7c69-4d4b-bacd-379f82720351', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 5}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 5}]}
+【2026-06-23 13:00:05.008】 准备追加下单
+【2026-06-23 13:00:05.008】 下单类型:追加 下单信息:{'id': '18b1a214-d130-49d3-a6a9-83f0150bf330', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190805007, 'signature': '0e2cc66cc5843d609c7ce7665fc0ee288c50714b8e395f134f17ce7ef52a0dd8'}}
+【2026-06-23 13:00:05.116】 ❌ 下单失败: {'id': '18b1a214-d130-49d3-a6a9-83f0150bf330', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 6}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 6}]}
+【2026-06-23 13:00:06.015】 准备全部平仓
+【2026-06-23 13:00:06.015】 下单类型:平仓 下单信息:{'id': '3f55f46d-faa9-4c50-8727-9452b3cf3b0a', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 250, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782190806015, 'signature': 'fbdf580c493fb0b22bcd523d0da0e75dc249ee594660d2a09f7ba07ad0731f13'}}
+【2026-06-23 13:00:06.122】 ❌ 下单失败: {'id': '3f55f46d-faa9-4c50-8727-9452b3cf3b0a', 'status': 400, 'error': {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 7}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 7}]}
+【2026-06-23 13:02:43.422】 🐕[potions_ws] 接受超时
+【2026-06-23 13:03:06.131】 🐕[order_ws] 准备销毁
+【2026-06-23 13:46:29.027】 开始获取购买数量
+【2026-06-23 13:46:29.191】 购买金额:10购买数量：504
+【2026-06-23 13:46:29.192】 开始获取购买数量
+【2026-06-23 13:46:29.334】 购买金额:8购买数量：403
+【2026-06-23 13:46:29.334】 开始设置持仓模式
+【2026-06-23 13:46:29.439】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 13:46:29.439】 开始设置倍数
+【2026-06-23 13:46:29.546】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 13:46:29.546】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.013798000000000001, 'nextFundingTime': 1782194400000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.01984000'), 'min_qty': 504, 'qty': 403}
+【2026-06-23 13:58:30.313】 开始获取购买数量
+【2026-06-23 13:58:30.577】 购买金额:10购买数量：506
+【2026-06-23 13:58:30.578】 开始获取购买数量
+【2026-06-23 13:58:30.776】 购买金额:8购买数量：405
+【2026-06-23 13:58:30.776】 开始设置持仓模式
+【2026-06-23 13:58:30.928】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 13:58:30.928】 开始设置倍数
+【2026-06-23 13:58:31.080】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 13:58:31.082】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.015358, 'nextFundingTime': 1782194400000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.01973000'), 'min_qty': 506, 'qty': 405}
+【2026-06-23 13:59:43.402】 ✅ WebSocket positions通道已连接
+【2026-06-23 13:59:43.402】 [positions WS] 等待接受信息
+【2026-06-23 13:59:43.796】 ✅ WebSocket order通道已连接
+【2026-06-23 13:59:43.796】 [order WS] 启动成功，等待接受信息
+【2026-06-23 14:00:00.007】 准备首次下单
+【2026-06-23 14:00:00.007】 下单类型:下单 下单信息:{'id': '324fa930-ee06-4cf8-9037-37343f9cab9e', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 506, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782194400007, 'signature': '816fd0f4edb274f384146f9f6cf7dacc6103d771d0dc32b2c92b4a7eddef8176'}}
+【2026-06-23 14:00:00.123】 {"e":"TRADE_LITE","E":1782194400007,"T":1782194400007,"s":"HOMEUSDT","q":"506","p":"0.0000000","m":false,"c":"9WN3smqhHIXEWVi1Bkqjqm","S":"BUY","L":"0.0197400","l":"38","t":135220621,"i":1638406517}
+【2026-06-23 14:00:00.123】 获取到开仓价格：0.01974
+【2026-06-23 14:00:00.123】 ✅ 下单成功: {'id': '324fa930-ee06-4cf8-9037-37343f9cab9e', 'status': 200, 'result': {'orderId': 1638406517, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': '9WN3smqhHIXEWVi1Bkqjqm', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '506', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194400007}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-23 14:00:00.123】 {"e":"TRADE_LITE","E":1782194400007,"T":1782194400007,"s":"HOMEUSDT","q":"506","p":"0.0000000","m":false,"c":"9WN3smqhHIXEWVi1Bkqjqm","S":"BUY","L":"0.0197400","l":"468","t":135220622,"i":1638406517}
+【2026-06-23 14:00:00.123】 获取到开仓价格：0.01974
+【2026-06-23 14:00:00.123】 {"e":"ORDER_TRADE_UPDATE","T":1782194400007,"E":1782194400008,"o":{"s":"HOMEUSDT","c":"9WN3smqhHIXEWVi1Bkqjqm","S":"BUY","o":"MARKET","f":"GTC","q":"506","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406517,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194400007,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:00.123】 {"e":"ACCOUNT_UPDATE","T":1782194400008,"E":1782194400008,"a":{"B":[{"a":"USDT","wb":"5.95029964","cw":"5.8756627","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"38","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"0.07463694","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:00.123】 {"e":"ORDER_TRADE_UPDATE","T":1782194400007,"E":1782194400008,"o":{"s":"HOMEUSDT","c":"9WN3smqhHIXEWVi1Bkqjqm","S":"BUY","o":"MARKET","f":"GTC","q":"506","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"PARTIALLY_FILLED","i":1638406517,"l":"38","z":"38","L":"0.01974","n":"0.00037506","N":"USDT","T":1782194400007,"t":135220621,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:00.124】 {"e":"ACCOUNT_UPDATE","T":1782194400008,"E":1782194400008,"a":{"B":[{"a":"USDT","wb":"5.94568048","cw":"4.9518307","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"506","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"0.99384978","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:00.124】 {"e":"ORDER_TRADE_UPDATE","T":1782194400007,"E":1782194400008,"o":{"s":"HOMEUSDT","c":"9WN3smqhHIXEWVi1Bkqjqm","S":"BUY","o":"MARKET","f":"GTC","q":"506","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"FILLED","i":1638406517,"l":"468","z":"506","L":"0.01974","n":"0.00461916","N":"USDT","T":1782194400007,"t":135220622,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:00.328】 {"e":"ACCOUNT_UPDATE","T":1782194400208,"E":1782194400212,"a":{"B":[{"a":"USDT","wb":"5.94723258","cw":"4.9518307","bc":"0.0015521"}],"P":[{"s":"HOMEUSDT","pa":"506","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"0.99540188","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"FUNDING_FEE"}}
+【2026-06-23 14:00:01.013】 准备追加下单
+【2026-06-23 14:00:01.014】 下单类型:追加 下单信息:{'id': 'b0577868-5dff-42ae-8409-a8d47fa02699', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 405, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782194401013, 'signature': '4b80ff7190b76c7120b67521f4d11c341736033a0ab1f7729c8515a058df7f15'}}
+【2026-06-23 14:00:01.128】 ✅ 下单成功: {'id': 'b0577868-5dff-42ae-8409-a8d47fa02699', 'status': 200, 'result': {'orderId': 1638406578, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': '7MUvuEPLzAgCIRU9dr24Bs', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '405', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194401012}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 2}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 2}]}
+【2026-06-23 14:00:01.129】 {"e":"TRADE_LITE","E":1782194401013,"T":1782194401012,"s":"HOMEUSDT","q":"405","p":"0.0000000","m":false,"c":"7MUvuEPLzAgCIRU9dr24Bs","S":"BUY","L":"0.0197400","l":"405","t":135220637,"i":1638406578}
+【2026-06-23 14:00:01.129】 获取到开仓价格：0.01974
+【2026-06-23 14:00:01.129】 {"e":"ORDER_TRADE_UPDATE","T":1782194401012,"E":1782194401013,"o":{"s":"HOMEUSDT","c":"7MUvuEPLzAgCIRU9dr24Bs","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406578,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194401012,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:01.129】 {"e":"ACCOUNT_UPDATE","T":1782194401013,"E":1782194401013,"a":{"B":[{"a":"USDT","wb":"5.94323523","cw":"4.1523607","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"911","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"1.79087453","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:01.129】 {"e":"ORDER_TRADE_UPDATE","T":1782194401012,"E":1782194401013,"o":{"s":"HOMEUSDT","c":"7MUvuEPLzAgCIRU9dr24Bs","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"FILLED","i":1638406578,"l":"405","z":"405","L":"0.01974","n":"0.00399735","N":"USDT","T":1782194401012,"t":135220637,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:02.011】 准备追加下单
+【2026-06-23 14:00:02.011】 下单类型:追加 下单信息:{'id': 'ba537305-0af4-4831-a35e-c397f92ad7ab', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 405, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782194402011, 'signature': '9156bd42187fbdfbccff3908732ce294f9d146da6a93d5c065802e31ca4a06b2'}}
+【2026-06-23 14:00:02.129】 ✅ 下单成功: {'id': 'ba537305-0af4-4831-a35e-c397f92ad7ab', 'status': 200, 'result': {'orderId': 1638406603, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'XxB3i6kSrMiNn6GhTvWBgn', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '405', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194402012}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 3}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 3}]}
+【2026-06-23 14:00:02.129】 {"e":"TRADE_LITE","E":1782194402012,"T":1782194402012,"s":"HOMEUSDT","q":"405","p":"0.0000000","m":false,"c":"XxB3i6kSrMiNn6GhTvWBgn","S":"BUY","L":"0.0197400","l":"405","t":135220647,"i":1638406603}
+【2026-06-23 14:00:02.129】 获取到开仓价格：0.01974
+【2026-06-23 14:00:02.129】 {"e":"ORDER_TRADE_UPDATE","T":1782194402012,"E":1782194402012,"o":{"s":"HOMEUSDT","c":"XxB3i6kSrMiNn6GhTvWBgn","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406603,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194402012,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:02.129】 {"e":"ACCOUNT_UPDATE","T":1782194402012,"E":1782194402012,"a":{"B":[{"a":"USDT","wb":"5.93923788","cw":"3.3528907","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"1316","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"2.58634718","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:02.129】 {"e":"ORDER_TRADE_UPDATE","T":1782194402012,"E":1782194402012,"o":{"s":"HOMEUSDT","c":"XxB3i6kSrMiNn6GhTvWBgn","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"FILLED","i":1638406603,"l":"405","z":"405","L":"0.01974","n":"0.00399735","N":"USDT","T":1782194402012,"t":135220647,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:03.022】 准备追加下单
+【2026-06-23 14:00:03.022】 下单类型:追加 下单信息:{'id': 'f3bdb701-d637-4970-bd31-8d7de8845a56', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 405, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782194403022, 'signature': '5bcbcc30c52863d543ae999956b2b001a6cb6550fcf406140fc69937b21231cb'}}
+【2026-06-23 14:00:03.139】 ✅ 下单成功: {'id': 'f3bdb701-d637-4970-bd31-8d7de8845a56', 'status': 200, 'result': {'orderId': 1638406616, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'AD7jGNU7tXSgJvGOpMm5qW', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '405', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194403023}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 4}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 4}]}
+【2026-06-23 14:00:03.139】 {"e":"TRADE_LITE","E":1782194403023,"T":1782194403023,"s":"HOMEUSDT","q":"405","p":"0.0000000","m":false,"c":"AD7jGNU7tXSgJvGOpMm5qW","S":"BUY","L":"0.0197400","l":"405","t":135220648,"i":1638406616}
+【2026-06-23 14:00:03.139】 获取到开仓价格：0.01974
+【2026-06-23 14:00:03.139】 {"e":"ORDER_TRADE_UPDATE","T":1782194403023,"E":1782194403023,"o":{"s":"HOMEUSDT","c":"AD7jGNU7tXSgJvGOpMm5qW","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406616,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194403023,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:03.139】 {"e":"ACCOUNT_UPDATE","T":1782194403023,"E":1782194403023,"a":{"B":[{"a":"USDT","wb":"5.93524053","cw":"2.5534207","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"1721","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"3.38181983","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:03.139】 {"e":"ORDER_TRADE_UPDATE","T":1782194403023,"E":1782194403023,"o":{"s":"HOMEUSDT","c":"AD7jGNU7tXSgJvGOpMm5qW","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"FILLED","i":1638406616,"l":"405","z":"405","L":"0.01974","n":"0.00399735","N":"USDT","T":1782194403023,"t":135220648,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:04.018】 准备追加下单
+【2026-06-23 14:00:04.018】 下单类型:追加 下单信息:{'id': 'e7612415-bcfa-48c1-9e89-7f86cc87b956', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 405, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782194404018, 'signature': 'd3902836ded4be94360dcc9e134b961189b20da9aab320c09bb7751e63ab0682'}}
+【2026-06-23 14:00:04.132】 {"e":"TRADE_LITE","E":1782194404017,"T":1782194404017,"s":"HOMEUSDT","q":"405","p":"0.0000000","m":false,"c":"1jBpnZkh7sijh7CR3WtviZ","S":"BUY","L":"0.0197400","l":"405","t":135220649,"i":1638406633}
+【2026-06-23 14:00:04.132】 获取到开仓价格：0.01974
+【2026-06-23 14:00:04.132】 {"e":"ORDER_TRADE_UPDATE","T":1782194404017,"E":1782194404017,"o":{"s":"HOMEUSDT","c":"1jBpnZkh7sijh7CR3WtviZ","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406633,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194404017,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:04.132】 ✅ 下单成功: {'id': 'e7612415-bcfa-48c1-9e89-7f86cc87b956', 'status': 200, 'result': {'orderId': 1638406633, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': '1jBpnZkh7sijh7CR3WtviZ', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '405', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194404017}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 5}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 5}]}
+【2026-06-23 14:00:04.132】 {"e":"ACCOUNT_UPDATE","T":1782194404017,"E":1782194404017,"a":{"B":[{"a":"USDT","wb":"5.93124318","cw":"1.7539507","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"2126","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"4.17729248","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:04.132】 {"e":"ORDER_TRADE_UPDATE","T":1782194404017,"E":1782194404017,"o":{"s":"HOMEUSDT","c":"1jBpnZkh7sijh7CR3WtviZ","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"FILLED","i":1638406633,"l":"405","z":"405","L":"0.01974","n":"0.00399735","N":"USDT","T":1782194404017,"t":135220649,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:04.995】 准备追加下单
+【2026-06-23 14:00:04.995】 下单类型:追加 下单信息:{'id': 'e8dedc77-5ac2-4f39-b91c-d489157bc5d5', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 405, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782194404995, 'signature': '0399f10185c2fc31b79a50495c12306d662ea153580aca919c1f352971dc04a6'}}
+【2026-06-23 14:00:05.110】 {"e":"TRADE_LITE","E":1782194404993,"T":1782194404993,"s":"HOMEUSDT","q":"405","p":"0.0000000","m":false,"c":"wj8RrYGnFmJiQsgiE5TNee","S":"BUY","L":"0.0197400","l":"405","t":135220650,"i":1638406642}
+【2026-06-23 14:00:05.110】 获取到开仓价格：0.01974
+【2026-06-23 14:00:05.111】 {"e":"ORDER_TRADE_UPDATE","T":1782194404993,"E":1782194404993,"o":{"s":"HOMEUSDT","c":"wj8RrYGnFmJiQsgiE5TNee","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406642,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194404993,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:05.111】 {"e":"ACCOUNT_UPDATE","T":1782194404993,"E":1782194404993,"a":{"B":[{"a":"USDT","wb":"5.92724583","cw":"0.9544807","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"2531","ep":"0.01974","cr":"-0.01006","up":"0","mt":"isolated","iw":"4.97276513","ps":"BOTH","ma":"USDT","bep":"0.01974987"}],"m":"ORDER"}}
+【2026-06-23 14:00:05.111】 {"e":"ORDER_TRADE_UPDATE","T":1782194404993,"E":1782194404993,"o":{"s":"HOMEUSDT","c":"wj8RrYGnFmJiQsgiE5TNee","S":"BUY","o":"MARKET","f":"GTC","q":"405","p":"0","ap":"0.01974","sp":"0","x":"TRADE","X":"FILLED","i":1638406642,"l":"405","z":"405","L":"0.01974","n":"0.00399735","N":"USDT","T":1782194404993,"t":135220650,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:05.112】 ✅ 下单成功: {'id': 'e8dedc77-5ac2-4f39-b91c-d489157bc5d5', 'status': 200, 'result': {'orderId': 1638406642, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'wj8RrYGnFmJiQsgiE5TNee', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '405', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194404993}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 6}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 6}]}
+【2026-06-23 14:00:06.023】 准备全部平仓
+【2026-06-23 14:00:06.024】 下单类型:平仓 下单信息:{'id': '5106d5a5-a177-4ad9-a47a-1dc946bbacd1', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 2531, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782194406023, 'signature': '3c553acf161457e8e9bc023a71042ecdbb59590ca607dc7899a4dac1333993ed'}}
+【2026-06-23 14:00:06.140】 ✅ 平仓成功: {'id': '5106d5a5-a177-4ad9-a47a-1dc946bbacd1', 'status': 200, 'result': {'orderId': 1638406656, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': '4ehBKOBCaJrmC1e3K5VA0d', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '2531', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': True, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782194406023}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 7}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 7}]}
+【2026-06-23 14:00:06.141】 {"e":"TRADE_LITE","E":1782194406023,"T":1782194406023,"s":"HOMEUSDT","q":"2531","p":"0.0000000","m":false,"c":"4ehBKOBCaJrmC1e3K5VA0d","S":"SELL","L":"0.0197300","l":"2098","t":135220654,"i":1638406656}
+【2026-06-23 14:00:06.141】 获取到开仓价格：0.01973
+【2026-06-23 14:00:06.141】 {"e":"TRADE_LITE","E":1782194406023,"T":1782194406023,"s":"HOMEUSDT","q":"2531","p":"0.0000000","m":false,"c":"4ehBKOBCaJrmC1e3K5VA0d","S":"SELL","L":"0.0197200","l":"433","t":135220655,"i":1638406656}
+【2026-06-23 14:00:06.142】 获取到开仓价格：0.01972
+【2026-06-23 14:00:06.142】 {"e":"ORDER_TRADE_UPDATE","T":1782194406023,"E":1782194406023,"o":{"s":"HOMEUSDT","c":"4ehBKOBCaJrmC1e3K5VA0d","S":"SELL","o":"MARKET","f":"GTC","q":"2531","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638406656,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782194406023,"t":0,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:06.142】 {"e":"ACCOUNT_UPDATE","T":1782194406023,"E":1782194406023,"a":{"B":[{"a":"USDT","wb":"5.88556906","cw":"5.03483524","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"433","ep":"0.01974","cr":"-0.03104","up":"0","mt":"isolated","iw":"0.85073382","ps":"BOTH","ma":"USDT","bep":"0.0198939439723"}],"m":"ORDER"}}
+【2026-06-23 14:00:06.142】 {"e":"ORDER_TRADE_UPDATE","T":1782194406023,"E":1782194406023,"o":{"s":"HOMEUSDT","c":"4ehBKOBCaJrmC1e3K5VA0d","S":"SELL","o":"MARKET","f":"GTC","q":"2531","p":"0","ap":"0.01973","sp":"0","x":"TRADE","X":"PARTIALLY_FILLED","i":1638406656,"l":"2098","z":"2098","L":"0.01973","n":"0.02069677","N":"USDT","T":1782194406023,"t":135220654,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"-0.02098","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:00:06.142】 {"e":"ACCOUNT_UPDATE","T":1782194406023,"E":1782194406023,"a":{"B":[{"a":"USDT","wb":"5.87263969","cw":"5.87263969","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"0","ep":"0","cr":"-0.0397","up":"0","mt":"isolated","iw":"0","ps":"BOTH","ma":"USDT","bep":"0"}],"m":"ORDER"}}
+【2026-06-23 14:00:06.142】 {"e":"ORDER_TRADE_UPDATE","T":1782194406023,"E":1782194406023,"o":{"s":"HOMEUSDT","c":"4ehBKOBCaJrmC1e3K5VA0d","S":"SELL","o":"MARKET","f":"GTC","q":"2531","p":"0","ap":"0.0197283","sp":"0","x":"TRADE","X":"FILLED","i":1638406656,"l":"433","z":"2531","L":"0.01972","n":"0.00426937","N":"USDT","T":1782194406023,"t":135220655,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"-0.00866","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 14:03:06.155】 🐕[potions_ws] 接受超时
+【2026-06-23 14:03:06.155】 🐕[order_ws] 准备销毁
+【2026-06-23 14:06:06.166】 🐕[potions_ws] 接受超时
+【2026-06-23 14:46:37.896】 开始获取购买数量
+【2026-06-23 14:46:38.075】 购买金额:10购买数量：526
+【2026-06-23 14:46:38.076】 开始获取购买数量
+【2026-06-23 14:46:38.220】 购买金额:8购买数量：420
+【2026-06-23 14:46:38.221】 开始设置持仓模式
+【2026-06-23 14:46:38.335】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 14:46:38.335】 开始设置倍数
+【2026-06-23 14:46:38.447】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 14:46:38.448】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.035669, 'nextFundingTime': 1782198000000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.01900745'), 'min_qty': 526, 'qty': 420}
+【2026-06-23 14:58:39.051】 开始获取购买数量
+【2026-06-23 14:58:39.261】 购买金额:10购买数量：520
+【2026-06-23 14:58:39.262】 开始获取购买数量
+【2026-06-23 14:58:39.419】 购买金额:8购买数量：416
+【2026-06-23 14:58:39.421】 开始设置持仓模式
+【2026-06-23 14:58:39.542】 已设置HOMEUSDT,持仓模式:逐仓模式
+【2026-06-23 14:58:39.542】 开始设置倍数
+【2026-06-23 14:58:39.658】 设置完毕:HOMEUSDT,倍数:10
+【2026-06-23 14:58:39.658】 📈{'symbol': 'HOMEUSDT', 'lastFundingRate': -0.040987, 'nextFundingTime': 1782198000000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('0.01921000'), 'min_qty': 520, 'qty': 416}
+【2026-06-23 14:59:43.493】 ✅ WebSocket positions通道已连接
+【2026-06-23 14:59:43.493】 [positions WS] 等待接受信息
+【2026-06-23 14:59:43.876】 ✅ WebSocket order通道已连接
+【2026-06-23 14:59:43.877】 [order WS] 启动成功，等待接受信息
+【2026-06-23 15:00:00.015】 准备首次下单
+【2026-06-23 15:00:00.015】 下单类型:下单 下单信息:{'id': '05386046-621b-4d87-99d5-686d5ae2bd66', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'false', 'timestamp': 1782198000015, 'signature': '76549dde17982401e59bfa1e1bfdf906697d508346a7f659a68bab317bdfbb0b'}}
+【2026-06-23 15:00:00.138】 {"e":"TRADE_LITE","E":1782197999983,"T":1782197999983,"s":"HOMEUSDT","q":"520","p":"0.0000000","m":false,"c":"Ggi4CvT3LwHRioi1SdQa1F","S":"BUY","L":"0.0192200","l":"510","t":135253416,"i":1638628086}
+【2026-06-23 15:00:00.138】 获取到开仓价格：0.01922
+【2026-06-23 15:00:00.138】 {"e":"TRADE_LITE","E":1782197999983,"T":1782197999983,"s":"HOMEUSDT","q":"520","p":"0.0000000","m":false,"c":"Ggi4CvT3LwHRioi1SdQa1F","S":"BUY","L":"0.0192300","l":"10","t":135253417,"i":1638628086}
+【2026-06-23 15:00:00.138】 {"e":"ORDER_TRADE_UPDATE","T":1782197999983,"E":1782197999984,"o":{"s":"HOMEUSDT","c":"Ggi4CvT3LwHRioi1SdQa1F","S":"BUY","o":"MARKET","f":"GTC","q":"520","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638628086,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782197999983,"t":0,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 15:00:00.138】 {"e":"ACCOUNT_UPDATE","T":1782197999983,"E":1782197999984,"a":{"B":[{"a":"USDT","wb":"5.86773859","cw":"4.89241969","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"510","ep":"0.01922","cr":"-0.0397","up":"0.0039984","mt":"isolated","iw":"0.9753189","ps":"BOTH","ma":"USDT","bep":"0.01922961"}],"m":"ORDER"}}
+【2026-06-23 15:00:00.140】 {"e":"ORDER_TRADE_UPDATE","T":1782197999983,"E":1782197999984,"o":{"s":"HOMEUSDT","c":"Ggi4CvT3LwHRioi1SdQa1F","S":"BUY","o":"MARKET","f":"GTC","q":"520","p":"0","ap":"0.01922","sp":"0","x":"TRADE","X":"PARTIALLY_FILLED","i":1638628086,"l":"510","z":"510","L":"0.01922","n":"0.0049011","N":"USDT","T":1782197999983,"t":135253416,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 15:00:00.140】 {"e":"ACCOUNT_UPDATE","T":1782197999983,"E":1782197999984,"a":{"B":[{"a":"USDT","wb":"5.86764244","cw":"4.87316809","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"520","ep":"0.01922019","cr":"-0.0397","up":"0.0040248","mt":"isolated","iw":"0.99447435","ps":"BOTH","ma":"USDT","bep":"0.0192298024038"}],"m":"ORDER"}}
+【2026-06-23 15:00:00.140】 {"e":"ORDER_TRADE_UPDATE","T":1782197999983,"E":1782197999984,"o":{"s":"HOMEUSDT","c":"Ggi4CvT3LwHRioi1SdQa1F","S":"BUY","o":"MARKET","f":"GTC","q":"520","p":"0","ap":"0.0192202","sp":"0","x":"TRADE","X":"FILLED","i":1638628086,"l":"10","z":"520","L":"0.01923","n":"0.00009615","N":"USDT","T":1782197999983,"t":135253417,"b":"0","a":"0","m":false,"R":false,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 15:00:00.140】 ✅ 下单成功: {'id': '05386046-621b-4d87-99d5-686d5ae2bd66', 'status': 200, 'result': {'orderId': 1638628086, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'Ggi4CvT3LwHRioi1SdQa1F', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '520', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782197999983}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-23 15:00:00.324】 {"e":"ACCOUNT_UPDATE","T":1782198000171,"E":1782198000175,"a":{"B":[{"a":"USDT","wb":"5.8717942","cw":"4.87316809","bc":"0.00415176"}],"P":[{"s":"HOMEUSDT","pa":"520","ep":"0.01922019","cr":"-0.0397","up":"0.0040248","mt":"isolated","iw":"0.99862611","ps":"BOTH","ma":"USDT","bep":"0.0192298024038"}],"m":"FUNDING_FEE"}}
+【2026-06-23 15:00:00.324】 获取到资金费
+【2026-06-23 15:00:01.006】 准备全部平仓
+【2026-06-23 15:00:01.006】 下单类型:平仓 下单信息:{'id': '259e808c-045a-4ed2-9670-5407d5753541', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782198001006, 'signature': 'affed3698b30a05971a875f16fbba88fb25a82e6e408e55d04b05d84559260d1'}}
+【2026-06-23 15:00:01.131】 {"e":"TRADE_LITE","E":1782198000976,"T":1782198000976,"s":"HOMEUSDT","q":"520","p":"0.0000000","m":false,"c":"EKA6PAZfqIsEurgmTffMPg","S":"SELL","L":"0.0192100","l":"437","t":135253428,"i":1638628165}
+【2026-06-23 15:00:01.131】 {"e":"TRADE_LITE","E":1782198000976,"T":1782198000976,"s":"HOMEUSDT","q":"520","p":"0.0000000","m":false,"c":"EKA6PAZfqIsEurgmTffMPg","S":"SELL","L":"0.0192100","l":"83","t":135253429,"i":1638628165}
+【2026-06-23 15:00:01.133】 {"e":"ORDER_TRADE_UPDATE","T":1782198000976,"E":1782198000977,"o":{"s":"HOMEUSDT","c":"EKA6PAZfqIsEurgmTffMPg","S":"SELL","o":"MARKET","f":"GTC","q":"520","p":"0","ap":"0","sp":"0","x":"NEW","X":"NEW","i":1638628165,"l":"0","z":"0","L":"0","n":"0","N":"USDT","T":1782198000976,"t":0,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"0","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 15:00:01.133】 {"e":"ACCOUNT_UPDATE","T":1782198000976,"E":1782198000977,"a":{"B":[{"a":"USDT","wb":"5.86314279","cw":"5.7037467","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"83","ep":"0.01922019","cr":"-0.04415403","up":"0.00064242","mt":"isolated","iw":"0.15939609","ps":"BOTH","ma":"USDT","bep":"0.0193846341563"}],"m":"ORDER"}}
+【2026-06-23 15:00:01.133】 {"e":"ORDER_TRADE_UPDATE","T":1782198000976,"E":1782198000977,"o":{"s":"HOMEUSDT","c":"EKA6PAZfqIsEurgmTffMPg","S":"SELL","o":"MARKET","f":"GTC","q":"520","p":"0","ap":"0.01921","sp":"0","x":"TRADE","X":"PARTIALLY_FILLED","i":1638628165,"l":"437","z":"437","L":"0.01921","n":"0.00419738","N":"USDT","T":1782198000976,"t":135253428,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"-0.00445403","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 15:00:01.133】 {"e":"ACCOUNT_UPDATE","T":1782198000976,"E":1782198000977,"a":{"B":[{"a":"USDT","wb":"5.86149962","cw":"5.86149962","bc":"0"}],"P":[{"s":"HOMEUSDT","pa":"0","ep":"0","cr":"-0.04499999","up":"0","mt":"isolated","iw":"0","ps":"BOTH","ma":"USDT","bep":"0"}],"m":"ORDER"}}
+【2026-06-23 15:00:01.133】 {"e":"ORDER_TRADE_UPDATE","T":1782198000976,"E":1782198000977,"o":{"s":"HOMEUSDT","c":"EKA6PAZfqIsEurgmTffMPg","S":"SELL","o":"MARKET","f":"GTC","q":"520","p":"0","ap":"0.01921","sp":"0","x":"TRADE","X":"FILLED","i":1638628165,"l":"83","z":"520","L":"0.01921","n":"0.00079721","N":"USDT","T":1782198000976,"t":135253429,"b":"0","a":"0","m":false,"R":true,"wt":"CONTRACT_PRICE","ot":"MARKET","ps":"BOTH","cp":false,"rp":"-0.00084596","pP":false,"si":0,"ss":0,"V":"EXPIRE_MAKER","pm":"NONE","gtd":0,"er":"0"}}
+【2026-06-23 15:00:01.134】 ✅ 平仓成功: {'id': '259e808c-045a-4ed2-9670-5407d5753541', 'status': 200, 'result': {'orderId': 1638628165, 'symbol': 'HOMEUSDT', 'status': 'NEW', 'clientOrderId': 'EKA6PAZfqIsEurgmTffMPg', 'price': '0.0000000', 'avgPrice': '0.00', 'origQty': '520', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.0000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': True, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.0000000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782198000976}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 1}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 1}]}
+【2026-06-23 15:00:02.016】 准备全部平仓
+【2026-06-23 15:00:02.016】 下单类型:平仓 下单信息:{'id': 'a4264165-3001-4689-9ce5-cca8535e7ad1', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782198002016, 'signature': 'c325a892926d17533c4d743af55834fe5bc46b34f612ebaffad482a1d63ba3b3'}}
+【2026-06-23 15:00:02.137】 ❌ 下单失败: {'id': 'a4264165-3001-4689-9ce5-cca8535e7ad1', 'status': 400, 'error': {'code': -2022, 'msg': 'ReduceOnly Order is rejected.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 2}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 2}]}
+【2026-06-23 15:00:03.011】 准备全部平仓
+【2026-06-23 15:00:03.011】 下单类型:平仓 下单信息:{'id': '028d72ea-a4a7-45b4-b44b-a017f9bc7dbd', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782198003011, 'signature': '141433c4e90766cb9da018a32de3c5e0fa6d94e12ced8e487910c59aec385d2d'}}
+【2026-06-23 15:00:03.129】 ❌ 下单失败: {'id': '028d72ea-a4a7-45b4-b44b-a017f9bc7dbd', 'status': 400, 'error': {'code': -2022, 'msg': 'ReduceOnly Order is rejected.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 3}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 3}]}
+【2026-06-23 15:00:04.011】 准备全部平仓
+【2026-06-23 15:00:04.012】 下单类型:平仓 下单信息:{'id': '9a97d7ca-130b-460a-abd5-7326968d822f', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782198004011, 'signature': '0c5dc356e589c9e5925e0fe2edd380a7dfb796a16bb435e81f6c2093686afa49'}}
+【2026-06-23 15:00:04.133】 ❌ 下单失败: {'id': '9a97d7ca-130b-460a-abd5-7326968d822f', 'status': 400, 'error': {'code': -2022, 'msg': 'ReduceOnly Order is rejected.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 4}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 4}]}
+【2026-06-23 15:00:05.006】 准备全部平仓
+【2026-06-23 15:00:05.006】 下单类型:平仓 下单信息:{'id': '5e161f58-33e2-49c3-842a-0cdfcf5334ab', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782198005006, 'signature': '41f6f9ad00b95fe25a1e7c7aa3431567a7d6643ac6432992d0da8afebdd28066'}}
+【2026-06-23 15:00:05.128】 ❌ 下单失败: {'id': '5e161f58-33e2-49c3-842a-0cdfcf5334ab', 'status': 400, 'error': {'code': -2022, 'msg': 'ReduceOnly Order is rejected.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 5}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 5}]}
+【2026-06-23 15:00:06.024】 准备全部平仓
+【2026-06-23 15:00:06.024】 下单类型:平仓 下单信息:{'id': '49361832-41f6-4663-a01e-c21f54c3bc12', 'method': 'order.place', 'params': {'symbol': 'HOMEUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 520, 'apiKey': 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR', 'reduceOnly': 'true', 'timestamp': 1782198006024, 'signature': '2fe8f518c0f71d8796bfa6b45ad4743fe4a50fef08a5061b59f780936e4072c8'}}
+【2026-06-23 15:00:06.142】 ❌ 下单失败: {'id': '49361832-41f6-4663-a01e-c21f54c3bc12', 'status': 400, 'error': {'code': -2022, 'msg': 'ReduceOnly Order is rejected.'}, 'rateLimits': [{'rateLimitType': 'REQUEST_WEIGHT', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': -1, 'count': -1}, {'rateLimitType': 'ORDERS', 'interval': 'SECOND', 'intervalNum': 10, 'limit': 300, 'count': 6}, {'rateLimitType': 'ORDERS', 'interval': 'MINUTE', 'intervalNum': 1, 'limit': 1200, 'count': 6}]}
+【2026-06-23 15:49:35.134】 开始获取购买数量
+【2026-06-23 15:49:35.337】 购买金额:10购买数量：0
+【2026-06-23 15:49:35.338】 开始获取购买数量
+【2026-06-23 15:49:35.497】 购买金额:8购买数量：0
+【2026-06-23 15:49:35.497】 开始设置持仓模式
+【2026-06-23 15:49:35.617】 设置持仓模式完毕:KORUUSDT,持仓模式:逐仓模式
+【2026-06-23 15:49:35.617】 开始设置倍数
+【2026-06-23 15:49:35.741】 设置完毕:KORUUSDT,倍数:10
+【2026-06-23 15:49:35.741】 📈{'symbol': 'KORUUSDT', 'lastFundingRate': -0.8998290000000001, 'nextFundingTime': 1782201600000, 'FUNDING_FEE': False, 'Sell_sz': 0, 'markPrice': Decimal('815.65156365'), 'min_qty': 0, 'qty': 0}
