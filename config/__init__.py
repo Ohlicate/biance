@@ -2,8 +2,8 @@ import requests
 import hmac
 import hashlib
 
-API_KEY = 'uSbcdOzZ579MsSC3CnVNS6fBYEznKpHSCBvSKsadOmY4y02kA95VXS1l3INZfoUR'
-API_SECRET = '8sJ9xLO6NDILXZYPK8wxWyyHWQpqYL3kUTWAXRpcGMo14lpaVt3peNKni69QypLV'
+API_KEY = 'x'
+API_SECRET = 'x'
 BASE_URL = "https://fapi.binance.com"
 headers = {"X-MBX-APIKEY": API_KEY}
 WS_URL = "wss://fstream.binance.com/private/ws/"
