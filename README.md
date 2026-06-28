@@ -1,5 +1,5 @@
 \# Binance Arbitrage System
-
+![项目截图](1.png)
 
 
 一个基于 Python + WebSocket 的币安自动化套利交易系统，支持资金费率套利、实时持仓监控与自动对冲逻辑。
