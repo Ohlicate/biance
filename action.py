@@ -46,31 +46,4 @@ async def run():
 		diff_ms = target_ms - now_ms
 		if 0 < diff_ms < 10000:
 			# 变量回归初始化
-			Bitcoin['FUNDING_FEE'] = False
-			Bitcoin['Sell_sz'] = 0
-			# 开启资金费检测任务
-			asyncio.create_task(check.ws_postion(ws=await create_websocket(config.WS_URL + config.get_listen_key(), "positions"), check_future=check_future, Bitcoin=Bitcoin))
-			# 开启WS下单任务
-			asyncio.create_task(order.ws_order(ws=await create_websocket(config.order_ws_url, "order"), Bitcoin=Bitcoin, order_queue=order_queue))
-			# 进行倒计时下单
-			for i in range(config.divisions + 1):
-				now_ms = int(time.time() * 1000)
-				order_diff_ms = Bitcoin['nextFundingTime'] + (i * 1000) - now_ms
-				await asyncio.sleep(order_diff_ms / 1000)
-				if i == 0 and not Bitcoin['FUNDING_FEE']:
-					await order_queue.put("下单")
-				elif i in (1, 2, 3, 4, 5) and not Bitcoin['FUNDING_FEE']:
-					await order_queue.put("追加")
-				elif i == 6 or Bitcoin['FUNDING_FEE']:
-					await order_queue.put("平仓")
-					break
-			
-			await asyncio.sleep(20)
-			logger.info("√本次套利完成，等待下一次")
-		# now_ms = int(time.time() * 1000)
-		# diff_ms1 = Bitcoin['funding_time'] - now_ms
-		# await asyncio.sleep(diff_ms1 / 1000)
-		# 下单触发
-		
-		else:
-			await asyncio.sleep(1)
+            ###具体策略不作公开
